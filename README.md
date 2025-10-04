@@ -69,7 +69,7 @@
 - **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, wavelets.
 - **[Time Frequency Analysis](https://github.com/perazaharmonics/Time-and-Frequency-py)** — Multi Resolution Analysis.
 - **[Digital Image Processing](https://github.com/perazaharmonics/Image-Processing-Matrices)** — 2D Spectral analysis kernels.
-- **Peraza & Ampere Synth** — Wavelet atom injector, 4D waveshaping projection synth.
+- **Adaptive Wavelet Synth** — Wavelet atom injector, 4D waveshaping projection synth.
 - **Aerospace SDR** — modular telemetry stack.
 
 ---
