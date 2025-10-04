@@ -40,23 +40,16 @@
 ### Visual Gallery — RF / DSP
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Spectrogram_of_speech.png" width="30%" alt="Spectrogram (dark)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Waveguide_modes.png" width="30%" alt="Waveguide modes">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Wavelet_example.png" width="30%" alt="Wavelet decomposition">
+  <img src="assets/spectrogram_lofi.gif" width="30%" alt="Live spectrogram">
+  <img src="assets/waveguide_mesh.gif" width="30%" alt="Waveguide mesh sim">
+  <img src="assets/wola_grains.gif" width="30%" alt="Wavelet OLA grains">
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/QPSK_Gray_Coded.svg" width="30%" alt="QPSK constellation (Gray coded)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/FFT_spectrum_256_point_blackman_window.png" width="30%" alt="FFT spectrum (Blackman window)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Hilbert_phase_unwrap_example.png" width="30%" alt="Hilbert phase unwrap">
-</p>
-
-<p align="center">
-  <img src="assets/constellation_qpsk.png" width="30%" alt="QPSK constellation">
-  <img src="assets/fft_peaks.png" width="30%" alt="FFT peaks with windowing">
+  <img src="assets/qpsk_dark.svg" width="30%" alt="QPSK constellation (dark)">
+  <img src="assets/fft_peaks_dark.svg" width="30%" alt="FFT peaks with windowing (dark)">
   <img src="assets/hilbert_phase.gif" width="30%" alt="Hilbert/phase unwrap">
 </p>
-
 ---
 
 ### Selected Projects
