@@ -63,6 +63,31 @@
     <img src="assets/waveform.svg?v=3" width="30%" alt="Neon Waveform Banner">
   </picture>
 </p>
+
+---
+
+### Projectionist — 4D Noise Fields
+
+<p align="center">
+  <img src="assets/IMG_0158.png?v=4" width="30%" alt="Simplex 4D Noise Field">
+  <img src="assets/IMG_0159.png?v=4" width="30%" alt="Value 4D Noise Field">
+  <img src="assets/IMG_0160.png?v=4" width="30%" alt="Voronoi 4D Noise Field">
+</p>
+
+<p align="center">
+  <img src="assets/IMG_0161.png?v=4" width="30%" alt="Wavelet 4D Noise Field">
+  <img src="assets/IMG_0162.png?v=4" width="30%" alt="Fractal Brownian Motion 4D Noise Field">
+  <img src="assets/IMG_0163.png?v=4" width="30%" alt="Tiling 4D Noise Field">
+</p>
+
+<p align="center">
+  <img src="assets/IMG_0164.png?v=4" width="30%" alt="OpenSimplex Proxy 4D Noise Field">
+  <img src="assets/IMG_0166.png?v=4" width="30%" alt="Cell 4D Noise Field">
+</p>
+
+<p align="center">
+  <sub style="color:#C77DFF;">Generated via Python simulation of <code>Shape4D()</code> dispatch in C++ — cyberpunk palette: cyan, amber, and black.</sub>
+</p>
 ---
 
 ### Selected Projects
