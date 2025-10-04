@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="360" viewBox="0 0 800 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="360" fill="#0b0b0f"/>
+  <g stroke="#374151" stroke-width="1">
+    <line x1="40" y1="320" x2="760" y2="320"/>
+    <line x1="40" y1="40" x2="40" y2="320"/>
+  </g>
+  <g fill="none" stroke="#202736" stroke-width="1">
+    <path d="M40 280 H760"/>
+    <path d="M40 240 H760"/>
+    <path d="M40 200 H760"/>
+    <path d="M40 160 H760"/>
+    <path d="M40 120 H760"/>
+    <path d="M40 80  H760"/>
+  </g>
+  <g fill="none" stroke="#00ffff" stroke-width="2">
+    <path d="M40 315 C60 300, 80 300, 100 315
+             S140 330, 160 315 S200 300, 220 315
+             S260 330, 280 315 S320 300, 340 315
+             S380 330, 400 315 S440 300, 460 315
+             S500 330, 520 315 S560 300, 580 315
+             S620 330, 640 315 S680 300, 700 315
+             S740 330, 760 315"/>
+  </g>
+  <g fill="#c77dff">
+    <rect x="180" y="120" width="6" height="200"/>
+    <rect x="480" y="90"  width="6" height="230"/>
+  </g>
+  <g fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+    <text x="10" y="48">|X(f)|</text>
+    <text x="746" y="338">f</text>
+    <text x="166" y="335">f₁</text>
+    <text x="466" y="335">f₂</text>
+  </g>
+</svg>
