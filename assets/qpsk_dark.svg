@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="600" height="400" viewBox="-1.1 -1.1 2.2 2.2" xmlns="http://www.w3.org/2000/svg">
-  <rect x="-1.1" y="-1.1" width="2.2" height="2.2" fill="#0b0b0f"/>
-  <g stroke="#374151" stroke-width="0.01">
-    <line x1="-1.05" y1="0" x2="1.05" y2="0"/>
-    <line x1="0" y1="-1.05" x2="0" y2="1.05"/>
-    <circle cx="0" cy="0" r="1" fill="none" stroke="#262b36"/>
+<svg width="600" height="420" viewBox="-1.2 -1.35 2.4 2.1" xmlns="http://www.w3.org/2000/svg">
+  <rect x="-1.2" y="-1.35" width="2.4" height="2.1" fill="#0b0b0f"/>
+  <g stroke="#2b2f3a" stroke-width="0.012">
+    <line x1="-1.1" y1="0" x2="1.1" y2="0"/>
+    <line x1="0" y1="-1.25" x2="0" y2="0.75"/>
+    <circle cx="0" cy="0" r="1" fill="none"/>
   </g>
-  <g fill="#00ffff" stroke="#00ffff" stroke-width="0.02">
-    <circle cx="0.707" cy="0.707" r="0.08"/>
-    <circle cx="-0.707" cy="0.707" r="0.08"/>
-    <circle cx="-0.707" cy="-0.707" r="0.08"/>
-    <circle cx="0.707" cy="-0.707" r="0.08"/>
+  <g fill="#00ffff" opacity="0.85">
+    <circle cx="0.7071" cy="0.7071" r="0.08"/>
+    <circle cx="-0.7071" cy="0.7071" r="0.08"/>
+    <circle cx="-0.7071" cy="-0.7071" r="0.08"/>
+    <circle cx="0.7071" cy="-0.7071" r="0.08"/>
   </g>
   <g fill="#c77dff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="0.14">
-    <text x="0.78" y="0.76">11</text>
-    <text x="-0.98" y="0.76">01</text>
-    <text x="-0.98" y="-0.64">00</text>
-    <text x="0.78" y="-0.64">10</text>
+    <text x="0.78" y="0.80">11</text>
+    <text x="-1.05" y="0.80">01</text>
+    <text x="-1.05" y="-0.58">00</text>
+    <text x="0.78" y="-0.58">10</text>
+  </g>
+  <g fill="#9aa4b2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="0.13">
+    <text x="1.02" y="0.14">I</text>
+    <text x="-0.08" y="-1.05">Q</text>
   </g>
 </svg>
