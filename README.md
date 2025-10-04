@@ -50,6 +50,12 @@
   <img src="assets/fft_peaks_dark.svg" width="30%" alt="FFT peaks with windowing (dark)">
   <img src="assets/hilbert_phase.gif" width="30%" alt="Hilbert/phase unwrap">
 </p>
+
+<p align="center">
+  <img src="assets/ambiguity_surface_dark.svg" width="30%" alt="Ambiguity surface (τ vs ν)">
+  <img src="assets/cwt_scalogram_dark.svg" width="30%" alt="CWT scalogram (dark)">
+  <img src="assets/waveform.svg" width="30%" alt="Neon waveform banner">
+</p>
 ---
 
 ### Selected Projects
