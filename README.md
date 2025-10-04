@@ -1,93 +1,21 @@
-<!--
-Profile README — RF & DSP cyberpunk edition.
--->
-
 <div align="center">
+  <p align="center">
+    <img src="assets/waveform.svg" alt="Waveform banner" width="100%">
+  </p>
 
-<!-- Cyberpunk oscilloscope banner with subtle animated glow (no <style>, GitHub-safe) -->
-<svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Waveform banner">
-  <defs>
-    <!-- Neon gradient with slow crossfade -->
-    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#00FFFF">
-        <animate attributeName="stop-color"
-                 values="#00FFFF;#C77DFF;#00FFFF"
-                 dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#C77DFF">
-        <animate attributeName="stop-color"
-                 values="#C77DFF;#00FFFF;#C77DFF"
-                 dur="6s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
+  <h1 style="color:#00FFFF;">Enrique / perazaharmonics</h1>
+  <h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Kubernetes</h3>
 
-    <!-- Soft glow filter -->
-    <filter id="glow" x="-20%" y="-200%" width="140%" height="500%">
-      <feGaussianBlur stdDeviation="2.2" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+  <p><em>Building low-level systems that process and shape reality in real time.</em></p>
 
-  <!-- Grid -->
-  <path d="M0 70 H1200" stroke="#4B4B4B" stroke-dasharray="4 6" opacity="0.25"/>
-  <path d="M0 35 H1200 M0 105 H1200" stroke="#333333" stroke-dasharray="2 10" opacity="0.25"/>
-
-  <!-- Waveform path definition -->
-  <path id="wf" d="M0,70
-    C60,30 120,110 180,70
-    S300,30 360,70
-    S540,110 600,70
-    S780,30 840,70
-    S1020,110 1080,70
-    S1140,50 1200,70" />
-
-  <!-- Halo (wide, faint, pulsing) -->
-  <use href="#wf"
-       fill="none"
-       stroke="url(#g)"
-       stroke-width="8"
-       stroke-linecap="round"
-       filter="url(#glow)"
-       opacity="0.18">
-    <animate attributeName="opacity"
-             values="0.18;0.10;0.18"
-             dur="3s" repeatCount="indefinite"/>
-  </use>
-
-  <!-- Main trace (thin, pulsing opacity) -->
-  <use href="#wf"
-       fill="none"
-       stroke="url(#g)"
-       stroke-width="3"
-       stroke-linecap="round"
-       filter="url(#glow)"
-       stroke-opacity="0.9">
-    <animate attributeName="stroke-opacity"
-             values="0.9;0.5;0.9"
-             dur="2.8s" repeatCount="indefinite"/>
-  </use>
-</svg>
-
-<h1 style="color:#00FFFF;">Enrique / perazaharmonics</h1>
-<h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Kubernetes</h3>
-
-<p>
-  <em>Building low-level systems that process and shape reality in real time.</em>
-</p>
-
-<!-- neon badges -->
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C++-17/20-303030?logo=c%2B%2B&logoColor=00FFFF&labelColor=202020">
-  <img alt="Go" src="https://img.shields.io/badge/Go-Concurrency-303030?logo=go&logoColor=00FFFF&labelColor=202020">
-  <img alt="DSP" src="https://img.shields.io/badge/DSP-FFT/Wavelets/Estimation-303030?labelColor=202020&color=C77DFF">
-  <img alt="SDR" src="https://img.shields.io/badge/SDR-VITA49/DIFI-303030?labelColor=202020&color=7C3AED">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Cilium/Helm-303030?logo=kubernetes&logoColor=00FFFF&labelColor=202020">
-  <img alt="RHEL" src="https://img.shields.io/badge/RHEL-8/9-303030?logo=redhat&logoColor=C77DFF&labelColor=202020">
-</p>
-
+  <p>
+    <img alt="C++" src="https://img.shields.io/badge/C++-17/20-303030?logo=c%2B%2B&logoColor=00FFFF&labelColor=202020">
+    <img alt="Go" src="https://img.shields.io/badge/Go-Concurrency-303030?logo=go&logoColor=00FFFF&labelColor=202020">
+    <img alt="DSP" src="https://img.shields.io/badge/DSP-FFT/Wavelets/Estimation-303030?labelColor=202020&color=C77DFF">
+    <img alt="SDR" src="https://img.shields.io/badge/SDR-VITA49/DIFI-303030?labelColor=202020&color=7C3AED">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Cilium/Helm-303030?logo=kubernetes&logoColor=00FFFF&labelColor=202020">
+    <img alt="RHEL" src="https://img.shields.io/badge/RHEL-8/9-303030?logo=redhat&logoColor=C77DFF&labelColor=202020">
+  </p>
 </div>
 
 ---
@@ -123,32 +51,6 @@ Profile README — RF & DSP cyberpunk edition.
   <img src="assets/hilbert_phase.gif" width="30%" alt="Hilbert/phase unwrap">
 </p>
 
-<p align="center">
-  <img src="https://wiki.gnuradio.org/images/0/0a/Waterfall-ex.png" width="32%" alt="GNU Radio Waterfall spectrogram" title="FM-band waterfall">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/QPSK_Gray_Coded.svg" width="32%" alt="QPSK constellation (Gray-coded)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Continuous_wavelet_transform.svg/640px-Continuous_wavelet_transform.svg.png" width="32%" alt="Continuous Wavelet Transform scalogram">
-</p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Butterfly-FFT.png" width="32%" alt="Radix-2 FFT butterfly diagram">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Radix-2_FFT_butterfly_diagram.png" width="32%" alt="FFT butterfly flow">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Analysis_of_three_superposed_sinusoidal_signals.jpg" width="32%" alt="STFT vs Wavelet comparison">
-</p>
-
-<details>
-  <summary>Capture details</summary>
-  <ul>
-    <li>Oscilloscope traces via Tektronix TBS series → PNG</li>
-    <li>Matplotlib animations → GIF (ffmpeg / ImageMagick)</li>
-    <li>Live app recordings → OBS Studio crop → GIF</li>
-  </ul>
-</details>
-
-<sub>
-Sources: GNU Radio Wiki, Wikimedia Commons (FFT, Wavelet, QPSK, STFT figures).  
-Download locally into <code>/assets</code> for stability if desired.
-</sub>
-
 ---
 
 ### Selected Projects
@@ -161,11 +63,11 @@ Download locally into <code>/assets</code> for stability if desired.
 ---
 
 ### Toolchain
-- **Languages**: C++, C, Go, Python, MATLAB, LabVIEW, JAVA, BASH
+- **Languages**: C++, C, Go, Python, MATLAB, LabVIEW, JAVA, BASH  
 - **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Kalman/LQG  
-- **RF/SDR**: VITA-49, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays
+- **RF/SDR**: VITA-49, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
 - **Infrastructure**: Kubernetes, Helm, Cilium, containerd, Prometheus  
-- **Build/Test**: CMake, Make, Catch2, GitHub Actions 
+- **Build/Test**: CMake, Make, Catch2, GitHub Actions  
 - **OS**: RHEL 8/9, Fedora, Alma
 
 ---
@@ -186,4 +88,3 @@ Download locally into <code>/assets</code> for stability if desired.
 </div>
 
 <p align="center"><sub style="color:#C77DFF;">Built for RF, DSP, and clean systems.</sub></p>
-
