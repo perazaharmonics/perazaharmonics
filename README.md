@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <sub style="color:#C77DFF;">Generated via Python simulation of <code>Shape4D()</code> dispatch in C++ — cyberpunk palette: cyan, amber, and black.</sub>
+  <sub style="color:#C77DFF;">Generated via Python simulation of <code>Shape4D()</code> dispatcher for C++ Projectionist Synth.</sub>
 </p>
 ---
 
