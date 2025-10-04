@@ -6,7 +6,7 @@
   <h1 style="color:#00FFFF;">Enrique / perazaharmonics</h1>
   <h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Kubernetes</h3>
 
-  <p><em>I just really like signals.</em></p>
+  <p><em>I just really like signals. Computer makes waveforms go zoom. So I program those too.</em></p>
 
   <p>
     <img alt="C++" src="https://img.shields.io/badge/C++-17/20-303030?logo=c%2B%2B&logoColor=00FFFF&labelColor=202020">
@@ -21,10 +21,10 @@
 ---
 
 ### About
-- **DSP/RF engineer** building elegant **C++17 header-only** libraries and real-time DSP tools.
+- **DSP/RF engineer** building tools to process data with **nice shapes** on C++, mostly 
 - Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
 - Packages everything inside **containers**, orchestrated via **Kubernetes**, hardened for production.
-- Enjoys proofs where they matter, profilers where they count, and **pretty waveforms always**.
+- Hardcore, man. Mathematical proofs, and **gorgeous signals**.
 
 ---
 
@@ -94,16 +94,16 @@
 - **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, wavelets.
 - **[Time Frequency Analysis](https://github.com/perazaharmonics/Time-and-Frequency-py)** — Multi Resolution Analysis.
 - **[Digital Image Processing](https://github.com/perazaharmonics/Image-Processing-Matrices)** — 2D Spectral analysis kernels.
-- **Adaptive Wavelet Synth** — Wavelet atom injector, 4D waveshaping projection synth.
+- **Adaptive Wavelet Atomize** — Wavelet atom injector, on a panned 4D environmental signal.
 - **Aerospace SDR** — modular telemetry stack.
 
 ---
 
 ### Toolchain
 - **Languages**: C++, C, Go, Python, MATLAB, LabVIEW, JAVA, BASH  
-- **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Kalman/LQG  
+- **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Pattern Recognition  
 - **RF/SDR**: VITA-49, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
-- **Infrastructure**: Kubernetes, Helm, Cilium, containerd, Prometheus  
+- **Infrastructure**: Kubernetes, Helm, Ansible, Cilium, containerd, Prometheus  
 - **Build/Test**: CMake, Make, Catch2, GitHub Actions  
 - **OS**: RHEL 8/9, FedoraLinux, AlmaLimux, Windows
 
