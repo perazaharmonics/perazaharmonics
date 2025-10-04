@@ -1,65 +1,42 @@
-
 <!--
 Profile README — RF & DSP cyberpunk edition.
 -->
 
 <div align="center">
 
-<!-- Cyberpunk oscilloscope banner with subtle animated glow -->
+<!-- Cyberpunk oscilloscope banner with subtle animated glow (no <style>, GitHub-safe) -->
 <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Waveform banner">
   <defs>
+    <!-- Neon gradient with slow crossfade -->
     <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#00FFFF"/>
-      <stop offset="100%" stop-color="#C77DFF"/>
+      <stop offset="0%" stop-color="#00FFFF">
+        <animate attributeName="stop-color"
+                 values="#00FFFF;#C77DFF;#00FFFF"
+                 dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#C77DFF">
+        <animate attributeName="stop-color"
+                 values="#C77DFF;#00FFFF;#C77DFF"
+                 dur="6s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
 
     <!-- Soft glow filter -->
     <filter id="glow" x="-20%" y="-200%" width="140%" height="500%">
-      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="b"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
 
-  <style>
-    /* Subtle pulse on the main trace */
-    @keyframes pulse {
-      0%, 100% { stroke-opacity: 0.95 }
-      50%      { stroke-opacity: 0.55 }
-    }
-    .gridL { stroke:#4B4B4B; stroke-dasharray:4 6; opacity:0.25 }
-    .gridS { stroke:#333;    stroke-dasharray:2 10; opacity:0.25 }
-
-    /* Halo behind the trace */
-    .halo {
-      stroke:url(#g);
-      stroke-width:8;
-      opacity:0.18;
-      filter:url(#glow);
-      stroke-linecap:round;
-    }
-    /* Main neon trace */
-    .trace {
-      stroke:url(#g);
-      stroke-width:3;
-      fill:none;
-      filter:url(#glow);
-      stroke-linecap:round;
-      animation:pulse 2.8s ease-in-out infinite;
-    }
-  </style>
-
-  <rect width="1200" height="140" fill="transparent"/>
-
   <!-- Grid -->
-  <path class="gridL" d="M0 70 H1200"/>
-  <path class="gridS" d="M0 35 H1200 M0 105 H1200"/>
+  <path d="M0 70 H1200" stroke="#4B4B4B" stroke-dasharray="4 6" opacity="0.25"/>
+  <path d="M0 35 H1200 M0 105 H1200" stroke="#333333" stroke-dasharray="2 10" opacity="0.25"/>
 
-  <!-- Waveform path (duplicated: halo + trace) -->
-  <path class="halo" d="
-    M0,70
+  <!-- Waveform path definition -->
+  <path id="wf" d="M0,70
     C60,30 120,110 180,70
     S300,30 360,70
     S540,110 600,70
@@ -67,14 +44,31 @@ Profile README — RF & DSP cyberpunk edition.
     S1020,110 1080,70
     S1140,50 1200,70" />
 
-  <path class="trace" d="
-    M0,70
-    C60,30 120,110 180,70
-    S300,30 360,70
-    S540,110 600,70
-    S780,30 840,70
-    S1020,110 1080,70
-    S1140,50 1200,70" />
+  <!-- Halo (wide, faint, pulsing) -->
+  <use href="#wf"
+       fill="none"
+       stroke="url(#g)"
+       stroke-width="8"
+       stroke-linecap="round"
+       filter="url(#glow)"
+       opacity="0.18">
+    <animate attributeName="opacity"
+             values="0.18;0.10;0.18"
+             dur="3s" repeatCount="indefinite"/>
+  </use>
+
+  <!-- Main trace (thin, pulsing opacity) -->
+  <use href="#wf"
+       fill="none"
+       stroke="url(#g)"
+       stroke-width="3"
+       stroke-linecap="round"
+       filter="url(#glow)"
+       stroke-opacity="0.9">
+    <animate attributeName="stroke-opacity"
+             values="0.9;0.5;0.9"
+             dur="2.8s" repeatCount="indefinite"/>
+  </use>
 </svg>
 
 <h1 style="color:#00FFFF;">Enrique / perazaharmonics</h1>
@@ -107,11 +101,10 @@ Profile README — RF & DSP cyberpunk edition.
 ---
 
 ### Current Work
-- **FCWTransforms** — FFTs (Split-Radix, PFA, Bluestein, Rader), MUSIC, PCA, windowing zoo. Cosine Transforms, etc.
+- **FCWTransforms** — FFTs (Split-Radix, PFA, Bluestein, Rader), MUSIC, PCA, windowing zoo; Cosine Transforms.
 - **Smart Wavelet Daughters (WOLA)** — live wavelet synthesis for timbre morphing.
 - **Waveguide Modeling** — physical strings, bodies, FDN reverbs, 2D/3D meshes; fractional delays (Thiran→Farrow).
-- **Aerospace SDR Stack** —
-- High-Reliability Aerospace SSR.
+- **Aerospace SDR Stack** — VITA-49/DIFI transport, modular telemetry pipelines, HA/persistence.
 - **K8s Infrastructure** — Cilium networking, Helm-managed services, persistent metrics endpoints.
 
 ---
@@ -194,4 +187,3 @@ Download locally into <code>/assets</code> for stability if desired.
 
 <p align="center"><sub style="color:#C77DFF;">Built for RF, DSP, and clean systems.</sub></p>
 
-If you want the glow a touch stronger, bump the stdDeviation from 2.2 → 3.0, or increase the .halo opacity from 0.18 → 0.25.
