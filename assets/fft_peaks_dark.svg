@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="800" height="360" viewBox="0 0 800 360" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="360" fill="#0b0b0f"/>
-  <g stroke="#374151" stroke-width="1">
-    <line x1="40" y1="320" x2="760" y2="320"/>
-    <line x1="40" y1="40" x2="40" y2="320"/>
+<svg width="960" height="420" viewBox="0 0 960 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="420" fill="#0b0b0f"/>
+  <g stroke="#232833" stroke-width="1">
+    <line x1="60" y1="360" x2="900" y2="360"/>
+    <line x1="60" y1="60" x2="60" y2="360"/>
+    <path d="M60 320 H900 M60 280 H900 M60 240 H900 M60 200 H900 M60 160 H900 M60 120 H900" fill="none"/>
   </g>
-  <g fill="none" stroke="#202736" stroke-width="1">
-    <path d="M40 280 H760"/>
-    <path d="M40 240 H760"/>
-    <path d="M40 200 H760"/>
-    <path d="M40 160 H760"/>
-    <path d="M40 120 H760"/>
-    <path d="M40 80  H760"/>
+  <g fill="#9aa4b2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <text x="24" y="72">|X(f)|</text>
+    <text x="892" y="384">f</text>
   </g>
   <g fill="none" stroke="#00ffff" stroke-width="2">
-    <path d="M40 315 C60 300, 80 300, 100 315
-             S140 330, 160 315 S200 300, 220 315
-             S260 330, 280 315 S320 300, 340 315
-             S380 330, 400 315 S440 300, 460 315
-             S500 330, 520 315 S560 300, 580 315
-             S620 330, 640 315 S680 300, 700 315
-             S740 330, 760 315"/>
+    <path d="M60 350 C120 345 150 345 210 350
+             C230 351 250 352 270 354
+             C290 356 300 357 320 357
+             C340 357 360 356 380 354
+             C400 352 420 348 440 342
+             C460 336 470 332 490 322
+             C510 312 520 305 540 290
+             C560 275 580 260 600 250
+             C620 240 640 235 660 233
+             C680 231 700 232 720 235
+             C740 238 760 244 780 252
+             C800 260 820 271 840 286
+             C860 301 880 320 900 350"/>
   </g>
   <g fill="#c77dff">
-    <rect x="180" y="120" width="6" height="200"/>
-    <rect x="480" y="90"  width="6" height="230"/>
+    <rect x="300" y="110" width="10" height="250"/>
+    <rect x="630" y="80" width="10" height="280"/>
   </g>
-  <g fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
-    <text x="10" y="48">|X(f)|</text>
-    <text x="746" y="338">f</text>
-    <text x="166" y="335">f₁</text>
-    <text x="466" y="335">f₂</text>
+  <g fill="#9aa4b2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+    <text x="290" y="376">f₁</text>
+    <text x="620" y="376">f₂</text>
+    <text x="70" y="110">windowed spectrum</text>
   </g>
 </svg>
