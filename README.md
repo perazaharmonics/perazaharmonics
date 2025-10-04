@@ -39,35 +39,28 @@
 ### Visual Gallery — RF / DSP
 
 <p align="center">
-  <img src="assets/spectrogram_lofi.gif?v=2" width="30%" alt="Live spectrogram">
-  <img src="assets/waveguide_mesh.gif?v=2" width="30%" alt="Waveguide mesh sim">
-  <img src="assets/wola_grains.gif?v=2" width="30%" alt="Wavelet OLA grains">
+  <picture>
+    <source type="image/svg+xml" srcset="assets/qpsk_dark.svg?v=3">
+    <img src="assets/qpsk_dark.png?v=3" width="30%" alt="QPSK Constellation (Dark)">
+  </picture>
+  <picture>
+    <source type="image/svg+xml" srcset="assets/fft_peaks_dark.svg?v=3">
+    <img src="assets/fft_peaks_dark.png?v=3" width="30%" alt="Windowed FFT Spectrum (Dark)">
+  </picture>
+  <picture>
+    <source type="image/svg+xml" srcset="assets/ambiguity_surface_dark.svg?v=3">
+    <img src="assets/ambiguity_surface_dark.png?v=3" width="30%" alt="3D Ambiguity Surface (τ vs ν)">
+  </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source type="image/svg+xml" srcset="assets/qpsk_dark.svg?v=2">
-    <img src="assets/qpsk_dark.png?v=2" width="30%" alt="QPSK constellation (dark)">
+    <source type="image/svg+xml" srcset="assets/cwt_scalogram_dark.svg?v=3">
+    <img src="assets/cwt_scalogram_dark.png?v=3" width="30%" alt="CWT Scalogram (Dark)">
   </picture>
   <picture>
-    <source type="image/svg+xml" srcset="assets/fft_peaks_dark.svg?v=2">
-    <img src="assets/fft_peaks_dark.png?v=2" width="30%" alt="Windowed FFT spectrum (dark)">
-  </picture>
-  <img src="assets/hilbert_phase.gif?v=2" width="30%" alt="Hilbert/phase unwrap">
-</p>
-
-<p align="center">
-  <picture>
-    <source type="image/svg+xml" srcset="assets/ambiguity_surface_dark.svg?v=2">
-    <img src="assets/ambiguity_surface_dark.png?v=2" width="30%" alt="Ambiguity surface (τ vs ν)">
-  </picture>
-  <picture>
-    <source type="image/svg+xml" srcset="assets/cwt_scalogram_dark.svg?v=2">
-    <img src="assets/cwt_scalogram_dark.png?v=2" width="30%" alt="CWT scalogram (dark)">
-  </picture>
-  <picture>
-    <source type="image/svg+xml" srcset="assets/waveform.svg?v=2">
-    <img src="assets/waveform.svg?v=2" width="30%" alt="Neon waveform banner">
+    <source type="image/svg+xml" srcset="assets/waveform.svg?v=3">
+    <img src="assets/waveform.svg?v=3" width="30%" alt="Neon Waveform Banner">
   </picture>
 </p>
 ---
