@@ -30,7 +30,7 @@
 
 ### Current Work
 - **FCWTransforms** — FFTs (Split-Radix, PFA, Bluestein, Rader), MUSIC, PCA, windowing zoo; Cosine Transforms.
-- **Smart Wavelet Daughters (WOLA)** — live wavelet synthesis for timbre morphing.
+- **Adaptive Wavelet Atomizer (AWSynth)** — live wavelet synthesis for timbre morphing.
 - **Waveguide Modeling** — physical strings, bodies, FDN reverbs, 2D/3D meshes; fractional delays (Thiran→Farrow).
 - **Aerospace SDR Stack** — VITA-49/DIFI transport, modular telemetry pipelines, HA/persistence.
 - **K8s Infrastructure** — Cilium networking, Helm-managed services, persistent metrics endpoints.
@@ -68,7 +68,7 @@
 ### Selected Projects
 - **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, wavelets.
 - **[Time Frequency Analysis](https://github.com/perazaharmonics/Time-and-Frequency-py)** — Multi Resolution Analysis.
-- **[Digital Image Processing](https://github.com/perazaharmonics/Image-Processing-Matrices)** —
+- **[Digital Image Processing](https://github.com/perazaharmonics/Image-Processing-Matrices)** — 2D Spectral analysis kernels.
 - **Peraza & Ampere Synth** — Wavelet atom injector, 4D waveshaping projection synth.
 - **Aerospace SDR** — modular telemetry stack.
 
@@ -80,7 +80,7 @@
 - **RF/SDR**: VITA-49, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
 - **Infrastructure**: Kubernetes, Helm, Cilium, containerd, Prometheus  
 - **Build/Test**: CMake, Make, Catch2, GitHub Actions  
-- **OS**: RHEL 8/9, Fedora, Alma
+- **OS**: RHEL 8/9, FedoraLinux, AlmaLimux, Windows
 
 ---
 
@@ -90,7 +90,7 @@
 
 ### Philosophy
 > Build it. Break it. Learn from it.  
-> Precision, noise, and punk
+> Precision, noise; punk rock.
 
 ---
 
