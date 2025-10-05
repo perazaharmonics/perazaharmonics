@@ -24,7 +24,7 @@
 - **DSP/RF engineer** building tools to process data with **nice shapes** on C++, mostly 
 - Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
 - Packages everything inside **containers**, orchestrated via **Kubernetes**, hardened for production.
-- Hardcore punk, man. Drumming, Mathematical proofs, and **gorgeous signals**.
+- Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
 
 ---
 
