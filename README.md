@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="assets/waveform.svg" alt="Waveform banner" width="100%">
+    <img src="assets/waveform.png" alt="Waveform banner" width="100%">
   </p>
 
   <h1 style="color:#00FFFF;">Enrique / perazaharmonics</h1>
@@ -39,29 +39,14 @@
 ### Visual Gallery — RF / DSP
 
 <p align="center">
-  <picture>
-    <source type="image/svg+xml" srcset="assets/qpsk_dark.svg?v=3">
-    <img src="assets/qpsk_dark.png?v=3" width="30%" alt="QPSK Constellation (Dark)">
-  </picture>
-  <picture>
-    <source type="image/svg+xml" srcset="assets/fft_peaks_dark.svg?v=3">
-    <img src="assets/fft_peaks_dark.png?v=3" width="30%" alt="Windowed FFT Spectrum (Dark)">
-  </picture>
-  <picture>
-    <source type="image/svg+xml" srcset="assets/ambiguity_surface_dark.svg?v=3">
-    <img src="assets/ambiguity_surface_dark.png?v=3" width="30%" alt="3D Ambiguity Surface (τ vs ν)">
-  </picture>
+  <img src="assets/qpsk_dark.PNG?v=3" width="30%" alt="QPSK Constellation (Dark)">
+  <img src="assets/fft_peaks_dark.PNG?v=3" width="30%" alt="Windowed FFT Spectrum (Dark)">
+  <img src="assets/ambiguity_surface_dark.PNG?v=3" width="30%" alt="3D Ambiguity Surface (τ vs ν)">
 </p>
 
 <p align="center">
-  <picture>
-    <source type="image/svg+xml" srcset="assets/cwt_scalogram_dark.svg?v=3">
-    <img src="assets/cwt_scalogram_dark.png?v=3" width="30%" alt="CWT Scalogram (Dark)">
-  </picture>
-  <picture>
-    <source type="image/svg+xml" srcset="assets/waveform.svg?v=3">
-    <img src="assets/waveform.svg?v=3" width="30%" alt="Neon Waveform Banner">
-  </picture>
+  <img src="assets/cwt_scalogram_dark.PNG?v=3" width="30%" alt="CWT Scalogram (Dark)">
+  <img src="assets/waveform.PNG?v=3" width="30%" alt="Neon Waveform Banner">
 </p>
 
 ---
