@@ -29,7 +29,7 @@
 ---
 
 ### Current Work
-- **FCWTransforms** — FFTs (Split-Radix, PFA, Bluestein, Rader), MUSIC, PCA, windowing zoo; Cosine Transforms.
+- **FCWTransforms** — FFTs (Split-Radix, PFA, Bluestein, Rader, Stockham's, etc), MUSIC, PCA, Spectral Windows; Cosine Transforms.
 - **Adaptive Wavelet Synthesizer (AWSynth)** — live wavelet synthesis for timbre morphing.
 - **The Projectionist** - 4D Noise Field Projector unto a waveshapen LFO. Audo Scaping Engine.
 - **Waveguide Modeling** — physical strings, bodies, FDN reverbs, 2D/3D meshes; fractional delays (Thiran→Farrow).
