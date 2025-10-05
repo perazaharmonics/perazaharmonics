@@ -30,7 +30,8 @@
 
 ### Current Work
 - **FCWTransforms** — FFTs (Split-Radix, PFA, Bluestein, Rader), MUSIC, PCA, windowing zoo; Cosine Transforms.
-- **Adaptive Wavelet Atomizer (AWSynth)** — live wavelet synthesis for timbre morphing.
+- **Adaptive Wavelet Synthesizer (AWSynth)** — live wavelet synthesis for timbre morphing.
+- **The Projectionist** - 4D Noise Field Projector unto a waveshapen LFO. Audo Scaping Engine.
 - **Waveguide Modeling** — physical strings, bodies, FDN reverbs, 2D/3D meshes; fractional delays (Thiran→Farrow).
 - **Aerospace SDR Stack** — VITA-49/DIFI transport, modular telemetry pipelines, HA/persistence.
 - **K8s Infrastructure** — Cilium networking, Helm-managed services, persistent metrics endpoints.
@@ -84,7 +85,8 @@
 - **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, wavelets.
 - **[Time Frequency Analysis](https://github.com/perazaharmonics/Time-and-Frequency-py)** — Multi Resolution Analysis.
 - **[Digital Image Processing](https://github.com/perazaharmonics/Image-Processing-Matrices)** — 2D Spectral analysis kernels.
-- **[Adaprive Wavelet Atomizer Synth]** — Wavelet atom injector, on a panned 4D environmental signal.
+- **[Adaptive Wavelet Synthesizer]** — Wavelet atom injector of the waveform into itself.
+- **[Speech Processing](https://github.com/perazaharmonics/SpeechProc/tree/main)** - Speech Processing and information extraction.
 - **[Aerospace SDR]** — modular telemetry stack.
 
 ---
