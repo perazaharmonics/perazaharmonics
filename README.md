@@ -85,7 +85,7 @@
 - **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, wavelets.
 - **[Time Frequency Analysis](https://github.com/perazaharmonics/Time-and-Frequency-py)** — Multi Resolution Analysis.
 - **[Digital Image Processing](https://github.com/perazaharmonics/Image-Processing-Matrices)** — 2D Spectral analysis kernels.
-- **[Adaptive Wavelet Synthesizer]** — Wavelet atom injector of the waveform into itself.
+- **[Wavelet Projectionist Synth (WAVEPRO)]** — Wavelet atom injector of the waveform into itself.
 - **[Speech Processing](https://github.com/perazaharmonics/SpeechProc/tree/main)** - Speech Information extraction through spectral methods.
 - **[SATMAT](https://github.com/perazaharmonics/SATMAT)** — Radio Frequency Ground Station and Satellite Calculations.
 
