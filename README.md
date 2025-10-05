@@ -94,13 +94,13 @@
 - **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, wavelets.
 - **[Time Frequency Analysis](https://github.com/perazaharmonics/Time-and-Frequency-py)** — Multi Resolution Analysis.
 - **[Digital Image Processing](https://github.com/perazaharmonics/Image-Processing-Matrices)** — 2D Spectral analysis kernels.
-- **Adaptive Wavelet Atomize** — Wavelet atom injector, on a panned 4D environmental signal.
-- **Aerospace SDR** — modular telemetry stack.
+- **[Adaprive Wavelet Atomizer Synth]** — Wavelet atom injector, on a panned 4D environmental signal.
+- **[Aerospace SDR]** — modular telemetry stack.
 
 ---
 
 ### Toolchain
-- **Languages**: C++, C, Go, Python, MATLAB, LabVIEW, JAVA, BASH  
+- **Languages**: C++, C, Go, Python, MATLAB, LabVIEW, JAVA, Bash  
 - **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Pattern Recognition  
 - **RF/SDR**: VITA-49, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
 - **Infrastructure**: Kubernetes, Helm, Ansible, Cilium, containerd, Prometheus  
