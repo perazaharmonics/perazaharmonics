@@ -38,15 +38,21 @@
 ---
 ### Visual Gallery — RF / DSP
 
-<p align="center">
-  <img src="assets/qpsk_dark.PNG?v=3" width="30%" alt="QPSK Constellation (Dark)">
-  <img src="assets/fft_peaks_dark.PNG?v=3" width="30%" alt="Windowed FFT Spectrum (Dark)">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="assets/cwt_scalogram_dark.PNG?v=3" width="30%" alt="CWT Scalogram (Dark)">
-   <img src="assets/ambiguity_surface_dark.PNG?v=3" width="30%" alt="3D Ambiguity Surface (τ vs ν)">
-</p>
+  <!-- Row 1: QPSK + FFT -->
+  <p>
+    <img src="assets/qpsk_dark.PNG?v=3" width="40%" style="margin:8px;" alt="QPSK Constellation (Dark)">
+    <img src="assets/fft_peaks_dark.PNG?v=3" width="48%" style="margin:8px;" alt="Windowed FFT Spectrum (Dark)">
+  </p>
+
+  <!-- Row 2: CWT + Ambiguity -->
+  <p>
+    <img src="assets/cwt_scalogram_dark.PNG?v=3" width="48%" style="margin:8px;" alt="CWT Scalogram (Dark)">
+    <img src="assets/ambiguity_surface_dark.PNG?v=3" width="40%" style="margin:8px;" alt="3D Ambiguity Surface (τ vs ν)">
+  </p>
+
+</div>
 
 ---
 
