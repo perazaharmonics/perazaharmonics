@@ -25,7 +25,7 @@
 - Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
 - Packages everything inside **containers**, orchestrated via **Kubernetes**, hardened for production.
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
-- Don't really care about web programming. Only **Software Systems** for radio, and processors for signals.
+- **Software Systems Engineer** More Real-Time signal processing; less web development.
 ---
 
 ### Current Work
