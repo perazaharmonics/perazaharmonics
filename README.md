@@ -25,7 +25,7 @@
 - Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
 - Packages everything inside **containers**, orchestrated via **Kubernetes**, hardened for production.
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
-
+- I don't do web programming, nor do I care for it. Only **Software Systems** for radios.
 ---
 
 ### Current Work
