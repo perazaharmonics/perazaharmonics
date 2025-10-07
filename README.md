@@ -34,8 +34,6 @@
 - **The Projectionist** - 4D Noise Field Projector unto a waveshapen LFO. Audio Scaping Engine.
 - **Waveguide Modeling** — physical strings, bodies, FDN reverbs, 2D/3D meshes; fractional delays (Thiran→Farrow).
 - **EsperanzaSDR** — VITA-49/DIFI transport, Spectrally robust, and re-toolable Software Defined Radio. Esperanza Radio. 
-- **K8s Infrastructure** — Cilium networking, Helm-managed services, persistent metrics endpoints.
-
 ---
 ### Visual Gallery — RF / DSP
 
