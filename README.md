@@ -92,11 +92,10 @@
 ### Toolchain
 - **Languages**: C++, C, Go, Python, MATLAB, LabVIEW, JAVA, Bash  
 - **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Pattern Recognition  
-- **RF/SDR**: VITA-49, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
+- **RF/SDR**: DIFI/VITA-49.2, DPDK, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
 - **Infrastructure**: Kubernetes, Helm, Ansible, Cilium, containerd, Prometheus  
 - **Build/Test**: CMake, Make, Catch2, GitHub Actions  
-- **OS**: RHEL 8/9, FedoraLinux, AlmaLimux, Windows
-
+- **OS**: RHEL 8/9, FedoraLinux, AlmaLimux, Ubuntu, Windows
 ---
 
 <div align="center">
