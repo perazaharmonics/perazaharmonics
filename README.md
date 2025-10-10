@@ -29,7 +29,7 @@
 ---
 
 ### Current Work
-- **FCWTransforms** — FFTs (Split-Radix, PFA, Bluestein, Rader, Stockham's, etc), MUSIC, PCA, Spectral Windows; Cosine Transforms.
+- **FCWTransforms** — FFTs (Split-Radix, PFA, Bluestein, Rader, Stockham's, etc), DWT, MUSIC, PCA, Spectral Windows; Cosine Transforms.
 - **Adaptive Wavelet Synthesizer (AWSynth)** — live wavelet synthesis for timbre morphing.
 - **The Projectionist** - 4D Noise Field Projector unto a waveshapen LFO. Audio Scaping Engine.
 - **Waveguide Modeling** — physical strings, bodies, FDN reverbs, 2D/3D meshes; fractional delays (Thiran→Farrow).
@@ -80,7 +80,7 @@
 ---
 
 ### Selected Projects
-- **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, wavelets, MUSIC/ESPRIT Estimators; AF(w) && Goertzel Radars.
+- **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, DWTs, MUSIC/ESPRIT Estimators; AF(w) Resolvers && Goertzel Tone Ranger (RADARs).
 - **[Time Frequency Analysis](https://github.com/perazaharmonics/Time-and-Frequency-py)** — Multi Resolution Analysis.
 - **[Digital Image Processing](https://github.com/perazaharmonics/Image-Processing-Matrices)** — 2D Spectral analysis kernels.
 - **[Wavelet Projectionist Synth (WAVEPRO)]** — Wavelet atom injector of the waveform into itself.
