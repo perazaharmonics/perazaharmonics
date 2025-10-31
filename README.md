@@ -23,7 +23,7 @@
 ### About
 - **DSP/RF engineer** building tools to process data with **nice shapes** on C++, mostly 
 - Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
-- Packages everything inside **containers**, orchestrated via **Kubernetes**, hardened for production.
+- Architects **Software Defined Radios** and optimizes them for **Real-Time** systems.
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
 - **Software Systems Engineer** More Real-Time signal processing; less web development.
 ---
