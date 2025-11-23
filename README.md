@@ -33,7 +33,7 @@
 - **Adaptive Wavelet Synthesizer (AWSynth)** — live wavelet synthesis for timbre morphing.
 - **The Projectionist** - 4D Noise Field Projector unto a waveshapen LFO. Audio Scaping Engine.
 - **Waveguide Modeling** — physical strings, bodies, FDN reverbs, 2D/3D meshes; fractional delays (Thiran→Farrow).
-- **EsPeranzaSDR** — VITA-49/DIFI transport, Spectrally robust, re-toolable Software Defined Radio and Radar. Phased Array and MIMO capable. Esperanza Radio. 
+- **EsPeranzaSDR** — VITA-49/DIFI transport, Spectrally robust, re-toolable Software Defined Radio and Radar. Phased Array and MIMO capable. EsPeranza Radio. 
 ---
 ### Visual Gallery — RF / DSP
 
