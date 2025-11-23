@@ -47,9 +47,14 @@
 
   <!-- Row 2: CWT + Ambiguity -->
   <p>
+    <img src="assets/IMG_0397.jpeg?v=3" width="48%" style="margin:8px;" alt="PM PN32 Test">
+    <img src="assets/IMG_0399.jpeg?v=3" width="40%" style="margin:8px;" alt="48 kHz Purely Complex Tone">
+  </p> 
+  <!-- Row3: EsPeranzaSDR Plots -->
+  <p>
     <img src="assets/cwt_scalogram_dark.PNG?v=3" width="48%" style="margin:8px;" alt="CWT Scalogram (Dark)">
     <img src="assets/ambiguity_surface_dark.PNG?v=3" width="40%" style="margin:8px;" alt="3D Ambiguity Surface (τ vs ν)">
-  </p>
+  </p> 
 
 </div>
 
