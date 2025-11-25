@@ -47,7 +47,7 @@
 
   <!-- Row 2: CWT + Ambiguity -->
   <p>
-    <img src="assets/EsPeranza_Fourier.png?v=3" width="48%" style="margin:8px;" alt="PM PN32 Test">
+    <img src="assets/IMG_0426.png?v=3" width="48%" style="margin:8px;" alt="PM PN32 Test">
     <img src="assets/EsPeranza_Scalogram.png?v=3" width="40%" style="margin:8px;" alt="48 kHz Purely Complex Tone">
   </p> 
   <!-- Row3: EsPeranzaSDR Plots -->
