@@ -47,8 +47,7 @@
 
   <!-- Row 2: CWT + Ambiguity -->
   <p>
-    <img src="assets/IMG_0426.png?v=3" width="48%" style="margin:8px;" alt="12.20703175 kHz Purely Complex Tone">
-    <img src="assets/Waterfall_Match_Fourier.png?v=3" width="40%" style="margin:8px;" alt="12.20703175 kHz Purely Complex Tone">
+    <img src="assets/IMG_0513.png?v=3" width="48%" style="margin:8px;" alt="EsPeranza Aerospace Radio">
   </p> 
   <!-- Row3: EsPeranzaSDR Plots -->
   <p>
