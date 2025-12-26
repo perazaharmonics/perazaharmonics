@@ -55,7 +55,7 @@
 ---
 
 ### Toolchain
-- **Languages**: C++, C, Go, Python, MATLAB, LabVIEW, JAVA, Bash  
+- **Languages**: C++, C, Go, Python, Matlab, LabVIEW, Java, Bash, Assembly (Microcontrollers)
 - **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Pattern Recognition  
 - **RF/SDR**: DIFI/VITA-49.2, DPDK, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
 - **Infrastructure**: Kubernetes, Helm, Ansible, SR-IOV, Multus, containerd, Prometheus  
