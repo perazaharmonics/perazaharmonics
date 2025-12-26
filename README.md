@@ -29,7 +29,7 @@
 ---
 
 ### Current Work
-- **The Projectionist** - 4D Noise Field Projector unto a waveshapen LFO. Audio Scaping Engine.
+- **The Projectionist** - 4D Noise Field Projector onto a waveshapen LFO. Audio Scaping Engine.
 - **EsPeranzaSDR** — VITA-49/DIFI transport, It's a secret. It's also a radio.
 ---
 ### Visual Gallery — RF / DSP
@@ -60,7 +60,7 @@
 - **RF/SDR**: DIFI/VITA-49.2, DPDK, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
 - **Infrastructure**: Kubernetes, Helm, Ansible, SR-IOV, Multus, containerd, Prometheus  
 - **Build/Test**: CMake, Make, Catch2, GitHub Actions  
-- **OS**: RHEL 8/9, FedoraLinux, AlmaLimux, Ubuntu, Windows
+- **OS**: RHEL 8/9, FedoraLinux, AlmaLinux, Ubuntu, Windows
 ---
 
 <div align="center">
