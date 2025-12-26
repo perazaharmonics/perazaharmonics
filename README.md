@@ -29,30 +29,17 @@
 ---
 
 ### Current Work
-- **FCWTransforms** — FFTs (Split-Radix, PFA, Bluestein, Rader, Stockham's, etc), DWT, MUSIC, PCA, Spectral Windows; Cosine Transforms.
-- **Adaptive Wavelet Synthesizer (AWSynth)** — live wavelet synthesis for timbre morphing.
 - **The Projectionist** - 4D Noise Field Projector unto a waveshapen LFO. Audio Scaping Engine.
-- **Waveguide Modeling** — physical strings, bodies, FDN reverbs, 2D/3D meshes; fractional delays (Thiran→Farrow).
 - **EsPeranzaSDR** — VITA-49/DIFI transport, Spectrally robust, re-toolable Software Defined Radio and Radar. Phased Array and MIMO capable. EsPeranza Radio. 
 ---
 ### Visual Gallery — RF / DSP
 
 <div align="center">
 
-  <!-- Row 1: QPSK + FFT -->
+  <!-- Row1: EsPeranzaSDR Plots -->
   <p>
-    <img src="assets/qpsk_dark.PNG?v=3" width="40%" style="margin:8px;" alt="QPSK Constellation (Dark)">
-    <img src="assets/fft_peaks_dark.PNG?v=3" width="48%" style="margin:8px;" alt="Windowed FFT Spectrum (Dark)">
-  </p>
-
-  <!-- Row 2: CWT + Ambiguity -->
-  <p>
-    <img src="assets/IMG_0513.png?v=3" width="48%" style="margin:8px;" alt="EsPeranza Aerospace Radio">
-  </p> 
-  <!-- Row3: EsPeranzaSDR Plots -->
-  <p>
-    <img src="assets/cwt_scalogram_dark.PNG?v=3" width="48%" style="margin:8px;" alt="CWT Scalogram (Dark)">
-    <img src="assets/ambiguity_surface_dark.PNG?v=3" width="40%" style="margin:8px;" alt="3D Ambiguity Surface (τ vs ν)">
+    <img src="assets/FinDeLaRuina.PNG?v=3" width="48%" style="margin:8px;" alt="0 Hz BPSK Rs=138e3 Under Scalogram Decomposition">
+    <img src="assets/Hiedra.PNG?v=3" width="40%" style="margin:8px;" alt="0 Hz BPSK Modulated Carrier Rs=138e3">
   </p> 
 
 </div>
@@ -62,33 +49,19 @@
 ### Projectionist — 4D Noise Fields
 
 <p align="center">
-  <img src="assets/IMG_0158.png?v=4" width="30%" alt="Simplex 4D Noise Field">
-  <img src="assets/IMG_0159.png?v=4" width="30%" alt="Value 4D Noise Field">
   <img src="assets/IMG_0160.png?v=4" width="30%" alt="Voronoi 4D Noise Field">
 </p>
 
 <p align="center">
-  <img src="assets/IMG_0161.png?v=4" width="30%" alt="Wavelet 4D Noise Field">
-  <img src="assets/IMG_0162.png?v=4" width="30%" alt="Fractal Brownian Motion 4D Noise Field">
   <img src="assets/IMG_0163.png?v=4" width="30%" alt="Tiling 4D Noise Field">
 </p>
 
-<p align="center">
-  <img src="assets/IMG_0164.png?v=4" width="30%" alt="OpenSimplex Proxy 4D Noise Field">
-  <img src="assets/IMG_0166.png?v=4" width="30%" alt="Cell 4D Noise Field">
-</p>
-
-<p align="center">
-  <sub style="color:#C77DFF;">Generated via Python simulation of <code>Shape4D()</code> dispatcher for C++ Projectionist Synth.</sub>
-</p>
 ---
 
 ### Selected Projects
 - **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, DWTs, MUSIC/ESPRIT Estimators; AF(w) Resolvers && Goertzel Tone Ranger (RADARs).
 - **[Time Frequency Analysis](https://github.com/perazaharmonics/Time-and-Frequency-py)** — Multi Resolution Analysis.
 - **[Digital Image Processing](https://github.com/perazaharmonics/Image-Processing-Matrices)** — 2D Spectral analysis kernels.
-- **[Wavelet Projectionist Synth (WAVEPRO)]** — Wavelet atom injector of the waveform into itself.
-- **[Speech Processing](https://github.com/perazaharmonics/SpeechProc/tree/main)** - Speech Information extraction through spectral methods.
 - **[SATMAT](https://github.com/perazaharmonics/SATMAT)** — Radio Frequency Ground Station and Satellite Calculations.
 
 ---
