@@ -73,8 +73,8 @@
 
 ---
 
-![GitHub stats](https://perazaharmonics-readme-stats.vercel.app/api?username=perazaharmonics)
-
-![Top languages](https://perazaharmonics-readme-stats.vercel.app/api/top-langs?username=perazaharmonics)
-
+<p>
+  <img src="https://perazaharmonics-readme-stats.vercel.app/api?username=perazaharmonics" />
+  <img src="https://perazaharmonics-readme-stats.vercel.app/api/top-langs?username=perazaharmonics" />
+</p>
 <p align="center"><sub style="color:#C77DFF;">Built for RF, DSP, and clean systems.</sub></p>
