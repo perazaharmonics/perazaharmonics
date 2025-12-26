@@ -30,7 +30,7 @@
 
 ### Current Work
 - **The Projectionist** - 4D Noise Field Projector unto a waveshapen LFO. Audio Scaping Engine.
-- **EsPeranzaSDR** — VITA-49/DIFI transport, Spectrally robust, re-toolable Software Defined Radio and Radar. Phased Array and MIMO capable. EsPeranza Radio. 
+- **EsPeranzaSDR** — VITA-49/DIFI transport, It's a secret. It's also a radio.
 ---
 ### Visual Gallery — RF / DSP
 
