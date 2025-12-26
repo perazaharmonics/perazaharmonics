@@ -38,8 +38,8 @@
 
   <!-- Row1: EsPeranzaSDR Plots -->
   <p>
-    <img src="assets/FinDeLaRuina.PNG?v=3" width="48%" style="margin:8px;" alt="0 Hz BPSK Rs=138e3 Under Scalogram Decomposition">
-    <img src="assets/Hiedra.PNG?v=3" width="40%" style="margin:8px;" alt="0 Hz BPSK Modulated Carrier Rs=138e3">
+    <img src="assets/FinDeLaRuina.png?v=3" width="48%" style="margin:8px;" alt="0 Hz BPSK Rs=138e3 Under Scalogram Decomposition">
+    <img src="assets/Hiedra.png?v=3" width="40%" style="margin:8px;" alt="0 Hz BPSK Modulated Carrier Rs=138e3">
   </p> 
 
 </div>
