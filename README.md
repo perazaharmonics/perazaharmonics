@@ -73,9 +73,8 @@
 
 ---
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=perazaharmonics&show_icons=true&theme=radical" alt="GitHub stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perazaharmonics&layout=compact&theme=radical" alt="Top languages">
-</div>
+![GitHub stats](https://perazaharmonics-readme-st-git-b9b906-enriques-projects-8f86e02e.vercel.app/api?username=perazaharmonics)
+
+![Top languages](https://perazaharmonics-readme-st-git-b9b906-enriques-projects-8f86e02e.vercel.app/api/top-langs?username=perazaharmonics)
 
 <p align="center"><sub style="color:#C77DFF;">Built for RF, DSP, and clean systems.</sub></p>
