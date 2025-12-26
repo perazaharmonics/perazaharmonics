@@ -46,18 +46,6 @@
 
 ---
 
-### Projectionist — 4D Noise Fields
-
-<p align="center">
-  <img src="assets/IMG_0160.png?v=4" width="30%" alt="Voronoi 4D Noise Field">
-</p>
-
-<p align="center">
-  <img src="assets/IMG_0163.png?v=4" width="30%" alt="Tiling 4D Noise Field">
-</p>
-
----
-
 ### Selected Projects
 - **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, DWTs, MUSIC/ESPRIT Estimators; AF(w) Resolvers && Goertzel Tone Ranger (RADARs).
 - **[Time Frequency Analysis](https://github.com/perazaharmonics/Time-and-Frequency-py)** — Multi Resolution Analysis.
