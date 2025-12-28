@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="assets/IMG_0670.PNG" alt="Waveform banner" width="100%">
+    <img src="assets/IMG_0670.png" alt="Waveform banner" width="100%">
   </p>
 
   <h1 style="color:#00FFFF;">Enrique / perazaharmonics</h1>
