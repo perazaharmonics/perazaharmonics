@@ -74,7 +74,7 @@
 ---
 
 <p>
-  <img src="https://perazaharmonics-readme-stats.vercel.app/api?username=perazaharmonics&cache_seconds=3600&commits_year=2025&theme=synthwave&show_icons=true" />
-  <img src="https://perazaharmonics-readme-stats.vercel.app/api/top-langs?username=perazaharmonics&cache_seconds=3600&commits_year=2025&theme=synthwave&show_icons=true" />
+  <img src="https://perazaharmonics-readme-stats.vercel.app/api?username=perazaharmonics&cache_seconds=3600&commits_year=2025&theme=synthwave&show_icons=true&bg_color=00000000" />
+  <img src="https://perazaharmonics-readme-stats.vercel.app/api/top-langs?username=perazaharmonics&cache_seconds=3600&commits_year=2025&theme=synthwave&show_icons=true&bg_color=00000000" />
 </p>
 <p align="center"><sub style="color:#C77DFF;">Signals go brrr</sub></p>
