@@ -74,7 +74,7 @@
 ---
 
 <p>
-  <img src="https://perazaharmonics-readme-stats.vercel.app/api?username=perazaharmonics&cache_seconds=0" />
-  <img src="https://perazaharmonics-readme-stats.vercel.app/api/top-langs?username=perazaharmonics&cache_seconds=0" />
+  <img src="https://perazaharmonics-readme-stats.vercel.app/api?username=perazaharmonics&cache_seconds=3600&commits_year=2025" />
+  <img src="https://perazaharmonics-readme-stats.vercel.app/api/top-langs?username=perazaharmonics&cache_seconds=3600&commits_year=2025" />
 </p>
 <p align="center"><sub style="color:#C77DFF;">Built for RF, DSP, and clean systems.</sub></p>
