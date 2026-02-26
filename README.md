@@ -13,7 +13,6 @@
     <img alt="Go" src="https://img.shields.io/badge/Go-Concurrency-303030?logo=go&logoColor=00FFFF&labelColor=202020">
     <img alt="DSP" src="https://img.shields.io/badge/DSP-FFT/Wavelets/Estimation-303030?labelColor=202020&color=C77DFF">
     <img alt="SDR" src="https://img.shields.io/badge/SDR-VITA49/DIFI-303030?labelColor=202020&color=7C3AED">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Cilium/Helm-303030?logo=kubernetes&logoColor=00FFFF&labelColor=202020">
     <img alt="RHEL" src="https://img.shields.io/badge/RHEL-8/9-303030?logo=redhat&logoColor=C77DFF&labelColor=202020">
   </p>
 </div>
@@ -58,7 +57,6 @@
 - **Languages**: C++, C, Go, Python, Matlab, LabVIEW, Java, Bash, Assembly (Microcontrollers)
 - **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Pattern Recognition  
 - **RF/SDR**: DIFI/VITA-49.2, DPDK, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
-- **Infrastructure**: Kubernetes, Helm, Ansible, SR-IOV, Multus, containerd, Prometheus  
 - **Build/Test**: CMake, Make, Catch2, GitHub Actions  
 - **OS**: RHEL 8/9, FedoraLinux, AlmaLinux, Ubuntu, Windows
 ---
