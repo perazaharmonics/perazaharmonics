@@ -26,12 +26,11 @@
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
 - **RF/DSP Software Systems** More Real-Time signal processing; less web development.
 - **Trivium Solutions** Senior Software Systems Engineer.
-- **HIL I&T** RF/DSP Hardware in the Loop Integration, Development and Testing
---
+- **HIL I&T** RF/DSP Hardware in the Loop Integration, Development and Testing.
 
 ### Current Work
 - **The Projectionist** - 4D Noise Field Projector onto a waveshapen LFO. Audio Scaping Engine.
-- **EsPeranzaSDR** — VITA-49/DIFI transport, It's a secret. It's also a radio.
+- **EsPeranzaSDR** — VITA-49/DIFI transport, SATCOM Software Defined Radio.
 - **DIFI Digital Recorder** - DIFI SATCOM Signal Recorder and Player.
 ---
 ### Visual Gallery — RF / DSP
