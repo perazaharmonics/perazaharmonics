@@ -22,6 +22,7 @@
 ### About
 - **DSP/RF Engineer** by training; C++ developer by nature
 - Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
+- **SATCOM Front-End To Back-End** Experience on ground stations from the antenna, down to the software that processes the data.
 - Architects **Software Defined Radios** and optimizes them for **Real-Time** systems.
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
 - **Trivium Solutions** Senior Software Systems Engineer.
