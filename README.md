@@ -20,7 +20,7 @@
 ---
 
 ### About
-- **DSP/RF engineer** RF/DSP Engineer by training; C++ developer by nature
+- **DSP/RF Engineer** by training; C++ developer by nature
 - Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
 - Architects **Software Defined Radios** and optimizes them for **Real-Time** systems.
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
