@@ -24,7 +24,8 @@
 - Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
 - Architects **Software Defined Radios** and optimizes them for **Real-Time** systems.
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
-- **Software Systems Engineer** More Real-Time signal processing; less web development.
+- **RF/DSP Software Systems** More Real-Time signal processing; less web development.
+- **Trivium Solutions** Senior Software Systems Engineer.
 ---
 
 ### Current Work
