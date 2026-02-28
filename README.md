@@ -26,7 +26,8 @@
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
 - **RF/DSP Software Systems** More Real-Time signal processing; less web development.
 - **Trivium Solutions** Senior Software Systems Engineer.
----
+- **HIL I&T** RF/DSP Hardwwre in the Loop Integration, Development and Testing
+--
 
 ### Current Work
 - **The Projectionist** - 4D Noise Field Projector onto a waveshapen LFO. Audio Scaping Engine.
