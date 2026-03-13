@@ -27,6 +27,8 @@
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
 - **Trivium Solutions** Senior Software Systems Engineer.
 - **HIL I&T** RF/DSP Hardware in the Loop Integration, Development and Testing.
+- **Makes Digital Analogs** of real world Analog Electrical Systems
+- **Over 7 years** of RF/DSP Experience in Defense/Aerospace
 
 ### Current Work
 - **The Projectionist** - 4D Noise Field Projector onto a waveshapen LFO. Audio Scaping Engine.
