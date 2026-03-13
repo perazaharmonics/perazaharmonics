@@ -23,12 +23,10 @@
 - **DSP/RF Engineer** by training; C++ developer by nature
 - Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
 - **SATCOM Front-End To Back-End** Experience on ground stations from the antenna, down to the software that processes the data.
-- Architects **Software Defined Radios** and optimizes them for **Real-Time** systems.
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
-- **Trivium Solutions** Senior Software Systems Engineer.
-- **HIL I&T** RF/DSP Hardware in the Loop Integration, Development and Testing.
-- **Makes Digital Analogs** of real world Analog Electrical Systems
-- **Over 7 years** of RF/DSP Experience in Defense/Aerospace designing software, impedance matching, climbing, testing and validating Antenna Systems for production
+- **Trivium Solutions** Senior Software Systems Engineer. HIL, I&T, Software Developer/Architect
+- **Makes Digital Systems** out of real world Analog Electrical Systems
+- **Over 7 years** of RF/DSP Experience in Defense/Aerospace designing software, impedance matching, climbing, testing and validating Antenna Systems for SATCOM
 
 ### Current Work
 - **The Projectionist** - 4D Noise Field Projector onto a waveshapen LFO. Audio Scaping Engine.
