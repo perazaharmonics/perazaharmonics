@@ -48,12 +48,14 @@
 <div align="center">
   <!-- Row1: SSMC Plots -->
   <p>
+    <img src="assets/IMG_0870.png?v=3" width="40%" style="margin:8px;" alt="Smooth Sliding Mode Control Smoothstep Switching Function">
     <img src="assets/IMG_0871.png?v=3" width="40%" style="margin:8px;" alt="Smooth Sliding Mode Control">
     <img src="assets/IMG_0872.png?v=3" width="40%" style="margin:8px;" alt="Smooth Sliding Mode Control Filippov Equivalent Control">
     <img src="assets/IMG_0873.png?v=3" width="40%" style="margin:8px;" alt="Smooth Sliding Mode Control. Filippov Switched Vector Field">
   </p>
 
 </div>
+
 ---
 
 ### Selected Projects
