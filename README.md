@@ -33,7 +33,7 @@
 - **EsPeranzaSDR** — VITA-49/DIFI transport, SATCOM Software Defined Radio.
 - **DIFI Digital Recorder** - DIFI SATCOM Signal Recorder and Player.
 ---
-### Visual Gallery — RF / DSP
+### Visual Gallery — RF / DSP / Control Design
 
 <div align="center">
 
@@ -41,8 +41,11 @@
   <p>
     <img src="assets/FinDeLaRuina.png?v=3" width="48%" style="margin:8px;" alt="0 Hz BPSK Rs=138e3 Under Scalogram Decomposition">
     <img src="assets/Hiedra.png?v=3" width="40%" style="margin:8px;" alt="0 Hz BPSK Modulated Carrier Rs=138e3">
+    <img src="assets/IMG_0871.png?v=3" width="40%" style="margin:8px;" alt="Smooth Sliding Mode Control">
+    <img src="assets/IMG_0872.png?v=3" width="40%" style="margin:8px;" alt="Smooth Sliding Mode Control Filippov Equivalent Control">
+    <img src="assets/IMG_0873.png?v=3" width="40%" style="margin:8px;" alt="Smooth Sliding Mode Control. Filippov Switched Vector Field">
   </p> 
-
+  
 </div>
 
 ---
