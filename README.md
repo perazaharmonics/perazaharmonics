@@ -33,7 +33,7 @@
 - **EsPeranzaSDR** — VITA-49/DIFI transport, SATCOM Software Defined Radio.
 - **DIFI Digital Recorder** - DIFI SATCOM Signal Recorder and Player.
 ---
-### Visual Gallery — RF / DSP / Control Design
+### Visual Gallery — RF / DSP
 
 <div align="center">
 
@@ -44,7 +44,7 @@
   </p>
 </div>
 
-### Visual Gallery — Non-Linear Control Design
+### Non-Linear Control Design
 <div align="center">
   <!-- Row1: SSMC Plots -->
   <p>
