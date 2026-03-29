@@ -26,7 +26,7 @@
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
 - **Trivium Solutions** Senior Software Systems Engineer. HIL, I&T, Software Developer/Architect
 - **Makes Digital Systems** out of real world Analog Electrical Systems
-- **Over 7 years** of RF/DSP Labour in servive of the Defense/Aerospace industry
+- **Over 7 years** of RF/DSP labour in service of the Defense/Aerospace industry
 - **Hybrid Experience** in RF I&T, and **Legacy** RF/DSP software system modernization design and implementation 
 
 ### Current Work
