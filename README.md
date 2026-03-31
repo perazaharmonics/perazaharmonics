@@ -32,7 +32,7 @@
 ### Current Work
 - **The Projectionist** - 4D Noise Field Projector onto a waveshapen LFO. Audio Scaping Engine.
 - **EsPeranzaSDR** — VITA-49/DIFI transport, SATCOM Software Defined Radio.
-- **DIFI Digital Recorder** - DIFI SATCOM Signal Recorder and Player.
+- **DIFI Radio Frequency Recorder (DRR)** - DIFI SATCOM RF Recorder and Player.
 ---
 ### Visual Gallery — RF / DSP
 
