@@ -21,11 +21,9 @@
 
 ### About
 - **DSP/RF Engineer** by training; C++ **System Developer** by nature, and **Controls Engineer** by necessity.
-- Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
 - **SATCOM Front-End To Back-End** Experience on ground stations from the antenna, down to the software that processes the data.
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
 - **Trivium Solutions** Senior Software Systems Engineer. HIL, I&T, Software Developer/Architect
-- **Makes Digital Systems** out of real world Analog Electrical Systems
 - **Over 7 years** of RF/DSP labour in service of the Defense/Aerospace industry
 - **Hybrid Experience** in RF I&T, and **Legacy** RF/DSP software system modernization design and implementation 
 
