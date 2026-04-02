@@ -20,7 +20,7 @@
 ---
 
 ### About
-- **DSP/RF Engineer** by training; C++ system developer by nature
+- **DSP/RF Engineer** by training; C++ system developer by nature, and Controls Engineer by necessity.
 - Works on **telemetry ground systems** (AOS, commutators, packet processors) and **SDR** pipelines.
 - **SATCOM Front-End To Back-End** Experience on ground stations from the antenna, down to the software that processes the data.
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
