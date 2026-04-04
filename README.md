@@ -44,7 +44,7 @@
 </div>
 
 
-### Non-Linear Control Design / Sliding Mode Control soft-Super-Twisting Observer
+### Non-Linear Control Design / Semi-Implicitly Discrete STSiMC
 <div align="center">
   <!-- Row1: SSMC-sSTO Plots -->
   <p>
