@@ -60,9 +60,9 @@
   <!-- Row1: SSMC-sSTO Plots -->
   <p>
     <img src="assets/Lyapunov_Stability.png?v=3" width="40%" style="margin:8px;" alt="SMC-softSTO Lyapunov Stability">
-    <img src="assets/STO_SMC_Phase_Portrait.png?v=3" width="40%" style="margin:8px;" alt="SMC-STO Phase Portrait">
-    <img src="assets/STO_Phase_Portrait.png?v=3" width="40%" style="margin:8px;" alt="SMC-STO Phase portrait 2">
-     <img src="assets/STO_Augmented_Fillipov_Structure.png?v=3" width="40%" style="margin:8px;" alt="STO-SMC Augmented Fillipov Structure">   
+    <img src="assets/Lyapunov_Stability.png?v=3" width="40%" style="margin:8px;" alt="SMC-STO Phase Portrait">
+    <img src="assets/Phase_Portrait.png?v=3" width="40%" style="margin:8px;" alt="SMC-STO Phase portrait Semi-Implicit Discretization">
+     <img src="assets/Filippov_Switched_Vector_Field.png?v=3" width="40%" style="margin:8px;" alt="Filippov Switched Vector Field Semi-Implicit">   
   </p>
 
 </div>
