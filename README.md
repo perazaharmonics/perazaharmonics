@@ -68,7 +68,7 @@
 ### Toolchain
 - **Languages**: C++, C, Python, Matlab, Go, Java, Bash, Assembly (Microcontrollers), and LabVIEW 
 - **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Pattern Recognition
-- **Non-Linear Controls**: STSiMC, MRAC, LQRs; Robust, Optimal and Adaptive Controls. 
+- **Discrete Non-Linear Controls**: STSiMC, MRAC, LQRs; Robust, Optimal and Adaptive Controls. 
 - **RF/SDR**: DIFI Log-Likelihood Receivers, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
 - **Build/Test**: Make, CMake, Catch2, GitHub Actions  
 - **OS**: RHEL 8/9, FedoraLinux, AlmaLinux, Ubuntu, Windows
