@@ -21,7 +21,7 @@
 
 ### About
 - **RF/DSP/Controls Engineer** by training; C++ **System Developer** by nature.
-- **Front-End To Back-End** Experience on ground station SATCOM antenna systems from the hardware, down to the software that processes the data.
+- **Front-End To Back-End** Experience on SATCOM ground station antenna systems from the hardware, down to the software that processes the data.
 - **Trivium Solutions** Senior Software Systems Engineer. HIL, I&T, Software Developer/Architect
 - **Over 7 years** of RF/DSP labour in service of the Defense/Aerospace industry
 - **Hybrid Experience** in RF I&T, and **Legacy** RF/DSP software system modernization design and implementation 
@@ -67,8 +67,9 @@
 
 ### Toolchain
 - **Languages**: C++, C, Go, Python, Matlab, LabVIEW, Java, Bash, Assembly (Microcontrollers)
-- **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Pattern Recognition  
-- **RF/SDR**: DIFI/VITA-49.2, DPDK, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
+- **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Pattern Recognition
+- **Non-Linear Controls**: STSiMC, MRAC, LQRs; Robust, Optimal and Ada[ Controls. 
+- **RF/SDR**: DIFI Log-Likelihood Receivers, framing, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
 - **Build/Test**: CMake, Make, Catch2, GitHub Actions  
 - **OS**: RHEL 8/9, FedoraLinux, AlmaLinux, Ubuntu, Windows
 ---
