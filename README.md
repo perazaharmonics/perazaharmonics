@@ -48,10 +48,10 @@
 <div align="center">
   <!-- Row1: SSMC-sSTO Plots -->
   <p>
-    <img src="assets/Lyapunov_Stability 4.png?v=3" width="40%" style="margin:8px;" alt="STSMC semi-implicit Lyapunov Stability">
-    <img src="assets/Phase_Portrait.png?v=3" width="40%" style="margin:8px;" alt="SMC-STO Phase portrait Semi-Implicit Discretization">
-     <img src="assets/Filippov_Switched_Vector_Field.png?v=3" width="40%" style="margin:8px;" alt="Filippov Switched Vector Field Semi-Implicit">
-      <img src="assets/Filippov_Sliding_Existence.png?v=3" width="40%" style="margin:8px;" alt="Filippov Sliding Existence Region">
+    <img src="assets/High_Rate/Lyapunov_Stability 4.png?v=3" width="40%" style="margin:8px;" alt="STSMC semi-implicit Lyapunov Stability">
+    <img src="assets/High_Rate/Phase_Portrait.png?v=3" width="40%" style="margin:8px;" alt="SMC-STO Phase portrait Semi-Implicit Discretization">
+     <img src="assets/High_Rate/Filippov_Switched_Vector_Fields_Physics.png?v=3" width="40%" style="margin:8px;" alt="Filippov Switched Vector Field Semi-Implicit">
+      <img src="assets/High_Rate/Filippov_Sliding_Existence_Physics.png?v=3" width="40%" style="margin:8px;" alt="Filippov Sliding Existence Region">
   </p>
 
 </div>
