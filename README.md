@@ -20,7 +20,7 @@
 ---
 
 ### About
-- **DSP/RF Engineer** by training, and **Controls Engineer** by necessity; C++ **System Developer** by nature.
+- **RF/DSP/Controls Engineer** by training; C++ **System Developer** by nature.
 - **SATCOM Front-End To Back-End** Experience on ground stations from the antenna, down to the software that processes the data.
 - Hardcore punk, man. Drumming, mathematical proofs, and **gorgeous signals**.
 - **Trivium Solutions** Senior Software Systems Engineer. HIL, I&T, Software Developer/Architect
