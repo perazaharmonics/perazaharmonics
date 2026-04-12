@@ -30,7 +30,7 @@
 - **The Projectionist** - 4D Noise Field Projector onto a waveshapen LFO. Audio Scaping Engine.
 - **EsPeranzaSDR** — VITA-49/DIFI transport, SATCOM Software Defined Radio.
 - **DIFI Radio Frequency Recorder (DRR)** - DIFI SATCOM RF Recorder and Player.
-- **IMAP Radio Receiver** - Interstellar Mapping and Acceleration Probe Radio Receiver.
+- **IMAP Radio Receiver (IRR)** - Interstellar Mapping and Acceleration Probe Radio Receiver.
 ---
 ### Visual Gallery — RF / DSP
 
