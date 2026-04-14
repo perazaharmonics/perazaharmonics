@@ -45,7 +45,7 @@
 </div>
 
 
-### Non-Linear Control Design / Semi-Implicitly Discrete STSiMC
+### Non-Linear Control Design / Matched-Pole Discrete STSiMC
 <div align="center">
   <!-- Row2: STSiMC Plots -->
   <p>
