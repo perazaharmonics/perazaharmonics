@@ -31,7 +31,7 @@
 - **EsPeranzaSDR** — VITA-49/DIFI transport, SATCOM Software Defined Radio.
 - **DIFI Radio Frequency Recorder (DRR)** - DIFI SATCOM RF Recorder and Player.
 - **IMAP Radio Receiver (IRR)** - Interstellar Mapping and Acceleration Probe Radio Receiver.
-- **Payload Poisoner** - Demodulator stress testing tool that poisons the payload with different shades of noise.
+- **Payload Poisoner** - Demodulator stress testing tool written in C++ that poisons the payload with different shades of noise.
 ---
 ### Visual Gallery — RF / DSP
 
