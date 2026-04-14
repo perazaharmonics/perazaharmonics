@@ -31,6 +31,7 @@
 - **EsPeranzaSDR** — VITA-49/DIFI transport, SATCOM Software Defined Radio.
 - **DIFI Radio Frequency Recorder (DRR)** - DIFI SATCOM RF Recorder and Player.
 - **IMAP Radio Receiver (IRR)** - Interstellar Mapping and Acceleration Probe Radio Receiver.
+- **Payload Poisoner** - Demodulator stress testing tool that poisons the payload with different shades of noise.
 ---
 ### Visual Gallery — RF / DSP
 
@@ -46,12 +47,22 @@
 
 ### Non-Linear Control Design / Semi-Implicitly Discrete STSiMC
 <div align="center">
-  <!-- Row1: SSMC-sSTO Plots -->
+  <!-- Row2: STSiMC Plots -->
   <p>
     <img src="assets/High_Rate/Lyapunov_Stability.png?v=3" width="40%" style="margin:8px;" alt="STSMC semi-implicit Lyapunov Stability">
     <img src="assets/High_Rate/Phase_Portrait.png?v=3" width="40%" style="margin:8px;" alt="SMC-STO Phase portrait Semi-Implicit Discretization">
      <img src="assets/High_Rate/Filippov_Switched_Vector_Field_Physics.png?v=3" width="40%" style="margin:8px;" alt="Filippov Switched Vector Field Semi-Implicit">
       <img src="assets/High_Rate/Filippov_Sliding_Existence_Physics.png?v=3" width="40%" style="margin:8px;" alt="Filippov Sliding Existence Region">
+  </p>
+
+</div>
+
+### Payload Poisoner
+<div align="center">
+  <!-- Row3: Payload Poisoner Plots -->
+  <p>
+    <img src="assets/PSD_WAVELET.png?v=3" width="40%" style="margin:8px;" alt="Wavelet Noise Poisoned Payload">
+    <img src="assets/Cross_Corr_Wavelet.png?v=3" width="40%" style="margin:8px;" alt="Clean vs Poisoned Signal Cross-Correlation">
   </p>
 
 </div>
