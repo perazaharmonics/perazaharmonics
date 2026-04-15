@@ -26,6 +26,12 @@
 - **Over 7 years** of RF/DSP labour in service of the Defense/Aerospace industry
 - **Hybrid Experience** in RF I&T, and **Legacy** RF/DSP software system modernization design and implementation 
 
+### Past Work
+-**US Navy DDGs Automated Testing Equipment** - Modernized the ATE for the Navy's Guided Missile Destroyer, developing a software of RF test tools 
+  for the Radio Communication System (RCS).
+-**SWFO-L1 I&T** - Composed and directed all integration and testing events regarding the RF front-end of participating ground stations, 
+  validating them for operational readiness.
+
 ### Current Work
 - **The Projectionist** - 4D Noise Field Projector onto a waveshapen LFO. Audio Scaping Engine.
 - **EsPeranzaSDR** — VITA-49/DIFI transport, SATCOM Software Defined Radio.
