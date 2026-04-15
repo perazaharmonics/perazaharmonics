@@ -32,9 +32,9 @@
 - **SWFO-L1 Integration and Testing** - Composed and directed the test criteria and all integration and testing events regarding the RF front-end for SWFO-L1 participating ground stations, validating them for operational readiness.
 
 ### Current Work
-- **DIFI Radio Frequency Recorder (DRR)** - DIFI SATCOM RF Recorder, Player and media streaming platform.
+- **DIFI Radio Frequency Recorder (DRR)** - DIFI SATCOM RF Recorder, Player, and media streaming platform.
 - **IMAP Radio Receiver (IRR)** - Interstellar Mapping and Acceleration Probe I-ALiRT Radio Receiver and Telemtry Forwarder.
-- **Payload Poisoner** - Demodulator stress testing tool written in C++ to poison the payload with different shades of noise, and study how the effects of different noise inducing events affect signal reception and information demodulation.
+- **Payload Poison Synthesizer (PPS)** - Demodulator stress testing tool written in C++ to poison the payload with different shades of noise, and study how the effects of different noise inducing events affect signal reception and information demodulation.
 ---
 ### Visual Gallery — RF / DSP
 
