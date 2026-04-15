@@ -60,9 +60,9 @@
 
 </div>
 
-### Payload Poisoner
+### Payload Poison Synthesizer
 <div align="center">
-  <!-- Row3: Payload Poisoner Plots -->
+  <!-- Row3: Payload Poison Synthesized Waveforms Generated Plots -->
   <p>
     <img src="assets/PSD_WAVELET.png?v=3" width="40%" style="margin:8px;" alt="Wavelet Noise Poisoned Payload">
     <img src="assets/Cross_Corr_Wavelet.png?v=3" width="40%" style="margin:8px;" alt="Clean vs Poisoned Signal Cross-Correlation">
