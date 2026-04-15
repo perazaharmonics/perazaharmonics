@@ -27,7 +27,7 @@
 - **Hybrid Experience** in RF I&T, and **Legacy** RF/DSP software system modernization design and implementation 
 
 ### Past Work
-- **US Navy DDG Automated Testing Equipment** - Modernized the ATE for the Navy's Guided Missile Destroyer, developing an RF software suite of test tools 
+- **US Navy DDG Automated Testing Equipment** - Modernized the ATE for the Navy's Guided Missile Destroyers, developing an RF software suite of test tools 
   for the DDG's Radio Communication System (RCS).
 - **SWFO-L1 Integration and Testing** - Composed and directed the test criteria and all integration and testing events regarding the RF front-end for SWFO-L1 participating ground stations, validating them for operational readiness.
 
