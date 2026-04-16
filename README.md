@@ -77,7 +77,6 @@
 - **[Fast Fourier Transforms](https://github.com/perazaharmonics/Fourier/tree/main)** — Fast Fourier Transforms toolkit
 - **[Discrete Wavelet Transforms](https://github.com/perazaharmonics/Wavelets/tree/main)** - Discrete Wavelet Transform toolkit
 - **[Discrete Cosine Transforms](https://github.com/perazaharmonics/Cosine)** - Discrete Cosine Transform toolkit
-- **[SATMAT](https://github.com/perazaharmonics/SATMAT)** — Radio Frequency Ground Station and Satellite Calculations.
 
 ---
 
