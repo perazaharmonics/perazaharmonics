@@ -74,9 +74,9 @@
 ---
 
 ### Selected Projects
-- **[FCWTransforms](https://github.com/perazaharmonics/FCWTransforms)** — transforms toolkit: FFTs, DCTs, DWTs, MUSIC/ESPRIT Estimators; AF(w) Resolvers && Goertzel Tone Ranger (RADARs).
-- **[Time Frequency Analysis](https://github.com/perazaharmonics/Time-and-Frequency-py)** — Multi Resolution Analysis.
-- **[Digital Image Processing](https://github.com/perazaharmonics/Image-Processing-Matrices)** — 2D Spectral analysis kernels.
+- **[Fast Fourier Transforms](https://github.com/perazaharmonics/Fourier/tree/main)** — Fast Fourier Transforms toolkit
+- **[Discrete Wavelet Transforms](https://github.com/perazaharmonics/Wavelets/tree/main)** - Discrete Wavelet Transform toolkit
+- **[Discrete Cosine Transforms](https://github.com/perazaharmonics/Cosine)** - Discrete Cosine Transform toolkit
 - **[SATMAT](https://github.com/perazaharmonics/SATMAT)** — Radio Frequency Ground Station and Satellite Calculations.
 
 ---
