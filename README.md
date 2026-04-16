@@ -25,7 +25,6 @@
 - **Trivium Solutions** Senior Software Systems Engineer. HIL, I&T, Software Developer/Architect and very happily employed.
 - **Over 7 years** of RF/DSP labour in service of the Defense/Aerospace industry
 - **Hybrid Experience** in RF I&T, and **Legacy** RF/DSP software system modernization design and implementation
-- **Absolutely in love**- with DSP, RF, C, C++ system development, and digital instrument discretization and design.
 
 ### Past Work
 - **US Navy DDG Automated Testing Equipment** - Modernized the ATE for the Navy's Guided Missile Destroyers, developing an RF software suite of test tools 
