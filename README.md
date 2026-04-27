@@ -43,8 +43,7 @@
 
   <!-- Row1: EsPeranzaSDR Plots -->
   <p>
-    <img src="assets/FinDeLaRuina.png?v=3" width="48%" style="margin:8px;" alt="0 Hz BPSK Rs=138e3 Under Scalogram Decomposition">
-    <img src="assets/Hiedra.png?v=3" width="40%" style="margin:8px;" alt="0 Hz BPSK Modulated Carrier Rs=138e3">
+    <img src="assets/eRadio_V2.0.0d_PyQtGUI.png?v=3" width="48%" style="margin:8px;" alt="250 kHz BPSK Signal. eRadio prototype PyQt GUI">
   </p>
 </div>
 
