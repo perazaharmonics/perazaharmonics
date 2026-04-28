@@ -43,7 +43,7 @@
 
   <!-- Row1: EsPeranzaSDR Plots -->
   <p>
-    <img src="assets/eRadio_V2.0.0d_PyQtGUI.png?v=3" width="48%" style="margin:8px;" alt="250 kHz BPSK Signal. eRadio prototype PyQt GUI">
+    <img src="assets/BPSK_Gorgeous_Signal.png?v=3" width="48%" style="margin:8px;" alt="25 kHz BPSK Signal. eSDR Spectrum tab.">
   </p>
 </div>
 
