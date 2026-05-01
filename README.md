@@ -35,7 +35,7 @@
 - **DIFI Radio Frequency Recorder (DRR)** - DIFI SATCOM RF Recorder, Player, and media streaming platform.
 - **IMAP Radio Receiver (IRR)** - Interstellar Mapping and Acceleration Probe I-ALiRT Radio Receiver and Telemetry Forwarder.
 - **Payload Poison Synthesizer (PPS)** - Demodulator stress testing tool written in C++ to poison the payload with different shades of noise, and study how the effects of different noise inducing events affect signal reception and information demodulation.
-- **EsPeranzaRadio (eSDR)** - Atomically designed DIFI SATCOM Ground Station  Software Defined Radio and Tone Ranger. Per-Stream Telemetry Processor; Edge-Computing Architectured.
+- **EsPeranzaRadio (eSDR)** - Atomically designed DIFI SATCOM Ground Station Software Defined Radio and Telemetry Processor. C++ backend on a Python GUI.
 ---
 ### Visual Gallery — RF / DSP - eSDR
 
