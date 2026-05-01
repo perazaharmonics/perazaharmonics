@@ -43,7 +43,7 @@
 
   <!-- Row1: EsPeranzaSDR Plots -->
   <p>
-    <img src="assets/BPSK_Gorgeous_Signal.png?v=3" width="48%" style="margin:8px;" alt="25 kHz BPSK Signal. eSDR Spectrum tab.">
+    <img src="assets/eSDR.png?v=3" width="48%" style="margin:8px;" alt="eSDR TX and RX Loopback.">
   </p>
 </div>
 
