@@ -37,7 +37,8 @@
 - **Payload Poison Synthesizer (PPS)** - Demodulator stress testing tool written in C++ to poison the payload with different shades of noise, and study how the effects of different noise inducing events affect signal reception and information demodulation.
 - **EsPeranzaRadio (eSDR)** - Atomically designed DIFI SATCOM Ground Station Software Defined Radio and Telemetry Processor. C++ backend on a Python GUI.
 ---
-### Visual Gallery — RF / DSP - eSDR
+### Visual Gallery
+### EsPeranzaSDR
 
 <div align="center">
 
@@ -48,7 +49,7 @@
 </div>
 
 
-### Non-Linear Control Design / Matched-Pole Discrete STSiMC
+### Matched-Pole Discrete STSiMC
 <div align="center">
   <!-- Row2: STSiMC Plots -->
   <p>
@@ -60,7 +61,7 @@
 
 </div>
 
-### Payload Poison Synthesizer
+### Payload Poisynth
 <div align="center">
   <!-- Row3: Payload Poison Synthesized Waveforms Generated Plots -->
   <p>
