@@ -84,7 +84,7 @@
 - **Languages**: C++, C, Python, Matlab, Go, Java, Bash, Assembly (Microcontrollers), and LabVIEW 
 - **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Pattern Recognition
 - **Discrete Non-Linear Controls**: STSiMC, MRAC, LQRs; Robust, Optimal and Adaptive Controls. 
-- **RF/SDR**: DIFI Log-Likelihood Receivers, Hard-Soft Symbol Slicers, constellations, SNR/EB/N₀, Ambiguity Surface Resolution, Phased Arrays  
+- **RF/SDR**: DIFI Log-Likelihood Receivers, Hard-Soft Symbol Slicers, Digital Spectrum Analyzers and Scalograms; Software Defined Radios. 
 - **Build/Test**: Make, CMake, Catch2, GitHub Actions  
 - **OS**: RHEL 8/9, FedoraLinux, AlmaLinux, Ubuntu, Windows
 ---
