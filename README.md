@@ -44,7 +44,7 @@
 
   <!-- Row1: EsPeranzaSDR Plots -->
   <p>
-    <img src="assets/eSDR.png?v=3" width="48%" style="margin:8px;" alt="eSDR TX and RX Loopback.">
+    <img src="assets/EsperanzaRadio_DIFI_Yellow.png?v=3" width="48%" style="margin:8px;" alt="EsperanzaRadio.">
   </p>
 </div>
 
