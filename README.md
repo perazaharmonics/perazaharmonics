@@ -44,7 +44,7 @@
 
   <!-- Row1: EsPeranzaSDR Plots -->
   <p>
-    <img src="assets/EsperanzaRadio_DIFI_Yellow.png?v=3" width="48%" style="margin:8px;" alt="EsperanzaRadio.">
+    <img src="assets/Frame_Locked.png?v=3" width="48%" style="margin:8px;" alt="EsPeranza CCSDS Space and General Infrastructure Software Defined Radio">
   </p>
 </div>
 
