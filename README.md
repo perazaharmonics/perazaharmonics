@@ -46,6 +46,10 @@
   <p>
     <img src="assets/Frame_Locked.png?v=3" width="48%" style="margin:8px;" alt="EsPeranza CCSDS Space and General Infrastructure Software Defined Radio">
   </p>
+  <!-- Row2: BPSK subcarrier on a PM carrier -->
+    <p>
+    <img src="assets/IMG_0986.png?v=3" width="48%" style="margin:8px;" alt="EsPeranza CCSDS Space and General Infrastructure Software Defined Radio">
+  </p>
 </div>
 
 
