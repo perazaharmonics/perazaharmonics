@@ -46,10 +46,15 @@
   <p>
     <img src="assets/Frame_Locked.png?v=3" width="48%" style="margin:8px;" alt="EsPeranza CCSDS Space and General Infrastructure Software Defined Radio">
   </p>
-  <!-- Row2: BPSK subcarrier on a PM carrier -->
+  <!-- Row2: PM subcarrier on a PM carrier -->
     <p>
     <img src="assets/IMG_0986.png?v=3" width="48%" style="margin:8px;" alt="EsPeranza CCSDS Space and General Infrastructure Software Defined Radio">
   </p>
+  </p>
+  <!-- Row3: Pulse-Shaped NRZ BPSK subcarrier on a PM carrier -->
+    <p>
+    <img src="assets/PCM_PM.png?v=3" width="48%" style="margin:8px;" alt="Pulse-Shaped NRZ BPSK subcarrier on a PM carrier. CCSDS PCM_PM">
+  </p>  
 </div>
 
 
