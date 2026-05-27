@@ -35,7 +35,7 @@
 - **DIFI Radio Frequency Recorder (DRR)** - DIFI SATCOM RF Recorder, Player, and media streaming platform.
 - **IMAP Radio Receiver (IRR)** - Interstellar Mapping and Acceleration Probe I-ALiRT Radio Receiver and Telemetry Forwarder.
 - **Payload PoiSynth (PPS)** - Demodulator stress testing tool written in C++ to poison the payload with different shades of noise, and study how the effects of different noise inducing events affect signal reception and information demodulation.
-- **EsPeranzaRadio (eSDR)** - Atomically designed DIFI CCSDS SATCOM Software Defined Radio. C++ engine on a Python GUI. Graph based reconfigurable DSP radio environment.
+- **EsPeranzaRadio (eSDR)** - DSPGraph guided modular CCSDS Software Defined Radio. C++ Backend on a Python GUI. 
 ---
 ### Visual Gallery
 ### EsPeranzaSDR
