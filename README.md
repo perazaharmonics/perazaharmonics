@@ -4,7 +4,7 @@
   </p>
 
   <h1 style="color:#00FFFF;">Enrique / perazaharmonics</h1>
-  <h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Software Development </h3>
+  <h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Software Development • EsperanzaRF LLC Founder </h3>
 
   <p><em>I just really like signals. Computers make waveforms go zoom. So I program those too.</em></p>
 
@@ -35,7 +35,7 @@
 - **DIFI Radio Frequency Recorder (DRR)** - DIFI SATCOM RF Recorder, Player, and media streaming platform.
 - **IMAP Radio Receiver (IRR)** - Interstellar Mapping and Acceleration Probe I-ALiRT Radio Receiver and Telemetry Forwarder.
 - **Payload PoiSynth (PPS)** - Demodulator stress testing tool written in C++ to poison the payload with different shades of noise, and study how the effects of different noise inducing events affect signal reception and information demodulation.
-- **EsPeranzaRadio (eSDR)** - DSPGraph guided modular CCSDS Software Defined Radio. C++ DSP engine on a Python GUI. 
+- **Esperanza Radio ** - DSPGraph guided modular CCSDS Software Defined Radio. C++ DSP engine on a Python GUI. 
 ---
 ### Visual Gallery
 ### EsPeranzaSDR
