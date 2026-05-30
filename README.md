@@ -54,7 +54,11 @@
   <!-- Row3: Pulse-Shaped NRZ BPSK subcarrier on a PM carrier -->
     <p>
     <img src="assets/PCM_PM.png?v=3" width="48%" style="margin:8px;" alt="Pulse-Shaped NRZ BPSK subcarrier on a PM carrier. CCSDS PCM_PM">
-  </p>  
+  </p>
+  <!-- Row4: CCSDS PCM_PM Dual Subcarrier -->
+    <p>
+    <img src="assets/CCSDS_PCM_PM_DUAL_SUBCARRIER.png?v=3" width="48%" style="margin:8px;" alt="Dual Subcarrier CCSDS PCM_PM">
+  </p>    
 </div>
 
 
