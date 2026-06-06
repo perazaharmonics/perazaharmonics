@@ -53,12 +53,7 @@
   </p>
   <!-- Row3: CCSDS PCM_PM Single Subcarrier -->
     <p>
-    <img src="assets/CCSDS_PCM_PM_ONE_SUBCARRIER.png?v=3" width="48%" style="margin:8px;" alt="Single Subcarrier CCSDS PCM_PM">
-  </p>    
-  <!-- Row4: CCSDS PCM_PM Dual Subcarrier -->
-    <p>
-    <img src="assets/CCSDS_PCM_PM_DUAL_SUBCARRIER.png?v=3" width="48%" style="margin:8px;" alt="Dual Subcarrier CCSDS PCM_PM">
-  </p>    
+    <img src="assets/CCSDS_PCM_PM_ONE_SUBCARRIER.png?v=3" width="48%" style="margin:8px;" alt="Single Subcarrier CCSDS PCM_PM"> 
 </div>
 
 
