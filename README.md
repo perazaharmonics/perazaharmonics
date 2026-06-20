@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="assets/IMG_1040.png" alt="CCSDS PCM_PM" width="100%">
+    <img src="assets/IMG_1040.jpeg" alt="Peraza" width="100%">
   </p>
 
   <h1 style="color:#00FFFF;">Enrique / perazaharmonics</h1>
