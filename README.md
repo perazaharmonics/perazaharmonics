@@ -5,7 +5,7 @@
   <h1 style="color:#00FFFF;"> EsperanzaRF LLC Founder & CEO</h1>
   <h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Software Development</h3>
 
-  <p><em>I just really like signals. Computers make waveforms go zoom. So I program those too.</em></p>
+  <p><em>I just really like signals and C++. Computers make waveforms go zoom. So I program them too.</em></p>
 
   <p>
     <img alt="C++" src="https://img.shields.io/badge/C++-17/20-303030?logo=c%2B%2B&logoColor=00FFFF&labelColor=202020">
