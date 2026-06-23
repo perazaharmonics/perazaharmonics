@@ -1,5 +1,8 @@
 <div align="center">
-  <h1 style="color:#00FFFF;">Enrique / perazaharmonics /EsperanzaRF LLC CEO & Founder</h1>
+<p align="center">
+    <img src="assets/Phase_Portrait_MP_STSiMC_Nice.png" alt="Peraza" width="100%">
+  </p>
+  <h1 style="color:#00FFFF;"> EsperanzaRF LLC Founder & CEO</h1>
   <h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Software Development</h3>
 
   <p><em>I just really like signals. Computers make waveforms go zoom. So I program those too.</em></p>
