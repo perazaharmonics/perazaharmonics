@@ -36,7 +36,7 @@
 
 ### Trivium Solutions LLC x EsperanzaRF LLC
 
-- **Esperanza Radio** - Graphical modular CCSDS Software Defined Radio. C++ DSP engine on a Python GUI. 
+- **HopeSDR** - Graphical modular CCSDS Software Defined Radio. C++ DSP engine on a Python GUI. 
 ---
 ### Visual Gallery
 ### EsPeranzaSDR
