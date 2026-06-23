@@ -21,7 +21,6 @@
 ### About
 - **RF/DSP/Controls Engineer** by training; C++ **System Developer** by nature.
 - **Front-End To Back-End** Experience on SATCOM ground station antenna systems: from the hardware, down to the software that processes the data.
-- **Trivium Solutions** Senior Software Systems Engineer. HIL, I&T, Software Developer/Architect and very happily employed.
 - **Over 7 years** of RF/DSP labour in service of the Defense/Aerospace industry
 - **Hybrid Experience** in RF I&T, and **Legacy** RF/DSP software system modernization design and implementation
 
