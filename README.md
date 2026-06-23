@@ -1,10 +1,6 @@
 <div align="center">
-  <p align="center">
-    <img src="assets/IMG_1040.jpeg" alt="Peraza" width="100%">
-  </p>
-
-  <h1 style="color:#00FFFF;">Enrique / perazaharmonics</h1>
-  <h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Software Development • EsperanzaRF LLC Founder and CEO </h3>
+  <h1 style="color:#00FFFF;">Enrique / perazaharmonics /EsperanzaRF LLC CEO & Founder</h1>
+  <h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Software Development</h3>
 
   <p><em>I just really like signals. Computers make waveforms go zoom. So I program those too.</em></p>
 
