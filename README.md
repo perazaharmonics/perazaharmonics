@@ -98,6 +98,10 @@
 > Build it. Break it. Learn from it.  
 > Precision, noise; punk rock.
 
+### NOTE:
+> Most work is kept private, and will remain that way.
+> Repositories that are public are meant to showcase the work as a living resume, but ARE NOT the breadth of my work. Nor, that of my employers. 🕵🏽‍♂️🥷🏽
+
 ---
 
 <p>
