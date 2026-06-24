@@ -39,7 +39,7 @@
 - **HopeSDR** - Graphical modular CCSDS Software Defined Radio. C++ DSP engine on a Python GUI. 
 ---
 ### Visual Gallery
-### EsPeranzaSDR
+### HopeSDR
 
 <div align="center">
 
