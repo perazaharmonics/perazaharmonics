@@ -23,7 +23,7 @@
 - **Front-End To Back-End** Experience on SATCOM ground station antenna systems: from the hardware, down to the software that processes the data.
 - **Over 7 years** of RF/DSP labour in service of the Defense/Aerospace industry
 - **Hybrid Experience** in RF I&T, and **Legacy** RF/DSP software system modernization design and implementation
-- **Subcontractor for Trivium Solutions LLC** Loyal to my employers. Any requests for products developed under Trivium Solutions LLC; those belonging to Trivium or jointly developed shall always go through **Trivium Solutions LLC**.
+- **Subcontractor for Trivium Solutions LLC** Loyal to my employers. Any requests for products developed under Trivium Solutions LLC; those belonging to Trivium or jointly developed shall *always* go through Trivium Solutions LLC.
 
 ### Past Work
 - **US Navy DDG Automated Testing Equipment** - Modernized the ATE for the Navy's Guided Missile Destroyers, developing an RF software suite of test tools 
