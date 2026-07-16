@@ -38,7 +38,7 @@
 ### Trivium Solutions LLC x EsperanzaRF LLC
 
 - **HopeSDR** - Graphical modular CCSDS Software Defined Radio. C++ DSP engine on a Python GUI.
-- **CCSDS Satellite Simulator** - CCSDS 131.0-B-5 and CCSDS 401.0-B-32 SDR Conformance validation tool. Spec anchored following just the specifications provided, to ensure full CCSDS conformance.
+- **CCSDS Satellite Simulator** - CCSDS 131.0-B-5 and CCSDS 401.0-B-32 SDR conformance and validation tool. Spec anchored following just the specifications provided in the published standards, to ensure full CCSDS conformance prior to mission acceptance tests.
 ---
 ### Visual Gallery
 ### HopeSDR
