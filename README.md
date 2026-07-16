@@ -18,6 +18,12 @@
 
 ---
 
+### Pinned Repositories
+- **[CCSDSTurbo](https://github.com/perazaharmonics/CCSDSTurbo)** - Turbo coding and decoding for CCSDS workflows
+- **[CCSDSReedSolomon](https://github.com/perazaharmonics/CCSDSReedSolomon)** - Reed-Solomon error correction for CCSDS pipelines
+- **[CCSDSViterbi](https://github.com/perazaharmonics/CCSDSViterbi)** - Viterbi decoding for convolutional CCSDS links
+- **[BCJRDecoder](https://github.com/perazaharmonics/BCJRDecoder)** - BCJR/MAP decoding for probabilistic sequence estimation
+
 ### About
 - **RF/DSP/Controls Engineer** by training; C++ **System Developer** by nature.
 - **Front-End To Back-End** Experience on SATCOM ground station antenna systems: from the hardware, down to the software that processes the data.
@@ -36,21 +42,20 @@
 - **Payload PoiSynth (PPS)** - Demodulator stress testing tool written in C++ to poison the payload with different shades of noise, and study how the effects of different noise inducing events affect signal reception and information demodulation.
 
 ### Trivium Solutions LLC x EsperanzaRF LLC
-
 - **HopeSDR** - Graphical modular CCSDS Software Defined Radio. C++ DSP engine on a Python GUI.
 - **CCSDS Satellite Simulator** - CCSDS 131.0-B-5 and CCSDS 401.0-B-32 SDR conformance and validation tool. Spec anchored following just the specifications provided in the published standards, to ensure full CCSDS conformance prior to mission acceptance tests.
+
 ---
+
 ### Visual Gallery
 ### HopeSDR
 
 <div align="center">
-
   <!-- Row1: EsPeranzaSDR Plots -->
   <p>
     <img src="assets/Frame_Locked.png?v=3" width="48%" style="margin:8px;" alt="EsPeranza CCSDS Space and General Infrastructure Software Defined Radio">
   </p>
 </div>
-
 
 ### Matched-Pole Discrete STSiMC
 <div align="center">
@@ -90,6 +95,7 @@
 - **RF**: Log-Likelihood Receivers, Hard-Soft Symbol Slicers, Digital Spectral Tooling; Software Defined Radios. Ground Station Integration and Validation.
 - **Build/Test**: Make, CMake, Catch2, GitHub Actions  
 - **OS**: RHEL 8/9, FedoraLinux, AlmaLinux, Ubuntu, Windows
+
 ---
 
 <div align="center">
