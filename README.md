@@ -97,6 +97,10 @@
 - **OS**: RHEL 8/9, FedoraLinux, AlmaLinux, Ubuntu, Windows
 
 ---
+### I&T
+**SWFO**: My time with SWFO was mainly occupied in verifying the entire Uplink and Downlink RF systems of the SWFO Ground Station Antennas. 
+           This picture was taken at the Wallops Island antenna site and features the 13M Parabolic Antenna manufactured by L3 Harris. 
+           I am glad and proud to have verified this Antenna for mission operation, and that it still stands.
 
 <div align="center">
   <img width="480" alt="cyber image" src="https://github.com/user-attachments/assets/7a5338a7-df8a-4683-b17e-74ebfd28207e">
