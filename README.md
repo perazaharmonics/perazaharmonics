@@ -42,7 +42,7 @@
 - **Payload PoiSynth (PPS)** - Demodulator stress testing tool written in C++ to poison the payload with different shades of noise, and study how the effects of different noise inducing events affect signal reception and information demodulation.
 
 ### Trivium Solutions LLC x EsperanzaRF LLC
-- **HopeSDR** - Polymorphic Near-Eath and Deep-Space CCSDS Software Defined Radio. C++ Digital Signal Processing engine on a Python GUI.    
+- **HopeSDR** - Polymorphic CCSDS Near-Eath and Deep-Space DIFI v1.3 Software Defined Radio. C++ Digital Signal Processing engine on a Python GUI.    
 - **CCSDS Satellite Simulator** - CCSDS 131.0-B-5 and CCSDS 401.0-B-32 SDR conformance and validation tool. Spec anchored following just the specifications provided in the published standards, to ensure full CCSDS conformance prior to mission acceptance tests.
 
 ---
