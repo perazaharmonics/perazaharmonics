@@ -23,7 +23,8 @@
 - **[CCSDSReedSolomon](https://github.com/perazaharmonics/CCSDSReedSolomon)** - Reed-Solomon error correction for CCSDS pipelines
 - **[CCSDSViterbi](https://github.com/perazaharmonics/CCSDSViterbi)** - Viterbi decoding for convolutional CCSDS links
 - **[BCJRDecoder](https://github.com/perazaharmonics/BCJRDecoder)** - BCJR/MAP decoding for probabilistic sequence estimation
-- **[BCHEncoder](https://github.com/perazaharmonics/BCHEncoder/tree/main)** - A CCSDS 231.0-B-4 telecommand modified BCH encoder implementing the ( 63 , 56 ) code
+- **[BCHEncoder](https://github.com/perazaharmonics/BCHEncoder)** - A CCSDS 231.0-B-4 telecommand modified BCH encoder implementing the ( 63 , 56 ) code
+- **[LDPCEncoder](https://github.com/perazaharmonics/LDPCEncoder)** - A CCSDS 231.0-B-4 telecommand LDPC encoder implementing both rate-1/2 systematic codes
 
 ### About
 - **RF/DSP/Controls Engineer** by training; C++ **System Developer** by nature.
