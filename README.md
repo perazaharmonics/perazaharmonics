@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-    <img src="assets/IMG_0986.png" alt="Peraza" width="100%">
+    <img src="assets/LUCERO.png" alt="Peraza" width="100%">
   </p>
   <h1 style="color:#00FFFF;"> EsperanzaRF LLC Founder & CEO</h1>
   <h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Software Development</h3>
@@ -42,14 +42,6 @@
 ---
 
 ### Visual Gallery
-### HopeSDR
-
-<div align="center">
-  <!-- Row1: EsPeranzaSDR Plots -->
-  <p>
-    <img src="assets/Frame_Locked.png?v=3" width="48%" style="margin:8px;" alt="EsPeranza CCSDS Space and General Infrastructure Software Defined Radio">
-  </p>
-</div>
 
 ### Matched-Pole Discrete STSiMC
 <div align="center">
