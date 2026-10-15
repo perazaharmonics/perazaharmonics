@@ -66,13 +66,6 @@
 
 ---
 
-### Selected Projects
-- **[Fast Fourier Transforms](https://github.com/perazaharmonics/Fourier/tree/main)** — Fast Fourier Transforms toolkit
-- **[Discrete Wavelet Transforms](https://github.com/perazaharmonics/Wavelets/tree/main)** - Discrete Wavelet Transform toolkit
-- **[Discrete Cosine Transforms](https://github.com/perazaharmonics/Cosine)** - Discrete Cosine Transform toolkit
-
----
-
 ### Toolchain
 - **Languages**: C++, C, Python, Matlab, Go, Java, Bash, Assembly (Microcontrollers), and LabVIEW 
 - **DSP**: FFTs, STFT/WOLA, Wavelets, MUSIC/ESPRIT, Pattern Recognition
