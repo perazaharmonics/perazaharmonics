@@ -1,7 +1,4 @@
 <div align="center">
-<p align="center">
-    <img src="assets/LUCERO.png" alt="Peraza" width="100%">
-  </p>
   <h1 style="color:#00FFFF;"> EsperanzaRF LLC Founder & CEO</h1>
   <h3 style="color:#C77DFF;">RF • Digital Signal Processing • SDR • Real-time Systems • Software Development</h3>
 
@@ -36,8 +33,16 @@
 - **Payload PoiSynth (PPS)** - Demodulator stress testing tool written in C++ to poison the payload with different shades of noise, and study how the effects of different noise inducing events affect signal reception and information demodulation.
 
 ### Trivium Solutions LLC x EsperanzaRF LLC
-- **CCSDS Satellite Simulator** - CCSDS 131.0-B-5 and CCSDS 401.0-B-32 SDR conformance and validation tool. Spec anchored following just the specifications provided in the published standards, to ensure full CCSDS conformance prior to mission acceptance tests.
+- **CCSDS Satellite Simulator** - CCSDS SDR conformance and validation tool. Spec anchored following just the specifications provided in the published standards, to ensure full CCSDS conformance prior to mission acceptance tests.
 
+### EsperanzaRF LLC### EsperanzaRF LLC
+- **Link Unified CCSDS Encoder-Receiver for Orbit (LUCERO)** — CCSDS-conformant software-defined radio for near-Earth links (C++17, RFSoC, DIFI v1.3 I/Q transport). Downlink: TM, AOS, Proximity-1 and USLP transfer frames (CCSDS 132.0-B / 732.0-B / 211.0-B / 732.1-B); residual-carrier PM, PCM/PSK/PM, BPSK, QPSK and OQPSK (SQPSK) demodulation per CCSDS 401.0-B; Costas carrier loop and Gardner timing loop so the receiver locks on carrier and symbol timing alone, without depending on the ASM: the same chain serves clear and encrypted links. Bit, frame and decoding synchronization with concatenated RS + convolutional and Turbo decoding (CCSDS 131.0-B). Uplink: BCH and LDPC telecommand coding, CLTU generation and PLOP-1 / PLOP-2 (CCSDS 231.0-B).
+  
+- **Link Unified CCSDS Encoder-Receiver for Orbit — Deep Space (LUCERO-DS)** — Deep-space variant of LUCERO sharing the same link layer (TM, AOS, Proximity-1, USLP) and uplink chain (BCH, LDPC, PLOP-1 / PLOP-2). Replaces the tracking loops with a data-aided maximum-likelihood synchronizer (ML log-likelihood ratios with Doppler acquisition) for low-SNR operation; residual-carrier PM, PCM/PSK/PM, BPSK, QPSK and OQPSK (SQPSK).
+---
+<p align="center">
+    <img src="assets/LUCERO.png" alt="Peraza" width="100%">
+  </p>
 ---
 
 ### Visual Gallery
