@@ -16,23 +16,22 @@
 ---
 
 ### About
-- **RF/DSP/Controls Engineer** by training; C++ **System Developer** by necessity.
-- **Front-End To Back-End** Experience on SATCOM ground station antenna systems: from the hardware, down to the software that processes the data.
-- **Over 7 years** of RF/DSP labour in service of the Defense/Aerospace industry
-- **Hybrid Experience** in RF I&T, and **Legacy** RF/DSP software system modernization design and implementation
+- **RF/DSP/Controls Engineer** by training; C++ **Systems Developer** by necessity. The math doesn't run itself.
+- **Antenna to Bitstream.** SATCOM ground station systems end to end: the feed, the RF chain, the digitizer, and every line of software between the ADC and the decoded frame.
+- **7+ years** of RF/DSP labour in service of the Defense and Aerospace industry.
+- **Two trades, one engineer.** RF integration & test on the bench; legacy RF/DSP software modernization at the keyboard. Each one makes the other honest.
 
 ### Past Work
-- **US Navy DDG Automated Testing Equipment** - Modernized the ATE for the Navy's Guided Missile Destroyers, developing an RF software suite of test tools 
-  for the DDG's Radio Communication System (RCS).
-- **SWFO-L1 Integration and Testing** - Composed and directed the test criteria and all integration and testing events regarding the RF front-end for SWFO-L1 participating ground stations, validating them for operational readiness.
+- **US Navy DDG Automated Test Equipment** — Modernized the ATE for the Navy's Guided Missile Destroyers: an RF software suite of test tools for the DDG's Radio Communication System (RCS), replacing a test flow that had outlived its hardware.
+- **SWFO-L1 Integration & Test** — Composed and directed the test criteria and every integration and test event for the RF front-end of SWFO-L1's participating ground stations, validating each for operational readiness before the spacecraft needed them.
+- **Telemetry Software Systems Engineer** — Modernized the Satellite Telemetry Data Recorder (STDR) to speak DIFI, then went further: a proprietary Non-Linear Control System that tracks the phase of the recorded signal exactly as it was captured, built on the Matched-Pole discretization of the STO and robust control principles. A modern RF Recorder, Player and media streaming platform bolted onto legacy software, and the legacy software is better for it. Also developed the back-end telemetry software for the Interstellar Mapping and Acceleration Probe (IMAP).
 
-### Most Recent work for Trivium Solutions LLC
-- **DIFI Radio Frequency Recorder (DRR)** - DIFI SATCOM RF Recorder, Player, and media streaming platform.
-- **IMAP Radio Receiver (IRR)** - Interstellar Mapping and Acceleration Probe I-ALiRT Radio Receiver and Telemetry Forwarder.
-- **Payload PoiSynth (PPS)** - Demodulator stress testing tool written in C++ to poison the payload with different shades of noise, and study how the effects of different noise inducing events affect signal reception and information demodulation.
+### Most Recent Work for Trivium Solutions LLC
+- **DIFI Radio Frequency Recorder (DRR)** — DIFI SATCOM RF Recorder, Player and media streaming platform. Record the pass once, replay it until the receiver stops lying.
+- **IMAP Radio Receiver (IRR)** — Interstellar Mapping and Acceleration Probe I-ALiRT Radio Receiver and Telemetry Forwarder: real-time space-weather telemetry, from the dish to the people who need it.
 
-### Trivium Solutions LLC x EsperanzaRF LLC
-- **CCSDS Satellite Simulator** - CCSDS SDR conformance and validation tool. Spec anchored following just the specifications provided in the published standards, to ensure full CCSDS conformance prior to mission acceptance tests.
+### Trivium Solutions LLC × EsperanzaRF LLC
+- **CCSDS Satellite Simulator** — CCSDS SDR conformance and validation tool, anchored to nothing but the published standards. It exists to catch the failure mode that internal loopbacks never will: a radio that is self-consistent and wrong. Full CCSDS conformance, proven before mission acceptance tests, not during them.
 
 ### EsperanzaRF LLC
 - **Link Unified CCSDS Encoder-Receiver for Orbit (LUCERO)** — CCSDS-conformant software-defined radio for near-Earth links (C++17, RFSoC, DIFI v1.3 I/Q transport). Downlink: TM, AOS, Proximity-1 and USLP transfer frames (CCSDS 132.0-B / 732.0-B / 211.0-B / 732.1-B); residual-carrier PM, PCM/PSK/PM, BPSK, QPSK and OQPSK (SQPSK) demodulation per CCSDS 401.0-B; Costas carrier loop and Gardner timing loop so the receiver locks on carrier and symbol timing alone, without depending on the ASM: the same chain serves clear and encrypted links. Bit, frame and decoding synchronization with concatenated RS + convolutional and Turbo decoding (CCSDS 131.0-B). Uplink: BCH and LDPC telecommand coding, CLTU generation and PLOP-1 / PLOP-2 (CCSDS 231.0-B).
