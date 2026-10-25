@@ -1,7 +1,9 @@
 <div align="center">
   <h1 style="color:#00FFFF;"> EsperanzaRF LLC Founder, CEO, and Principal Engineer</h1>
   <h3 style="color:#C77DFF;"> RF • Digital Signal Processing • Nonlinear Control Systems • Real-time Telemetry Systems • Software Development</h3>
-
+<p align="center">
+    <img src="assets/PM1.png" alt="Peraza" width="100%">
+  </p>
   <p><em>I just really like signals and C++. Computers make waveforms go zoom. So I program them too.</em></p>
 
   <p>
