@@ -16,7 +16,7 @@
 ---
 
 ### About
-- **RF/DSP/Controls Engineer** by training; C++ **System Developer** by nature.
+- **RF/DSP/Controls Engineer** by training; C++ **System Developer** by necessity.
 - **Front-End To Back-End** Experience on SATCOM ground station antenna systems: from the hardware, down to the software that processes the data.
 - **Over 7 years** of RF/DSP labour in service of the Defense/Aerospace industry
 - **Hybrid Experience** in RF I&T, and **Legacy** RF/DSP software system modernization design and implementation
