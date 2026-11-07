@@ -2,7 +2,7 @@
   <h1 style="color:#00FFFF;"> EsperanzaRF LLC Founder, CEO, and Principal Engineer</h1>
   <h3 style="color:#C77DFF;"> RF • Digital Signal Processing • Nonlinear Control Systems • Real-time Telemetry Systems • Software Development</h3>
 <p align="center">
-    <img src="assets/PM1.png" alt="Peraza" width="100%">
+    <img src="assets/SWFO_Lucero.png" alt="Peraza" width="100%">
   </p>
   <p><em>I just really like signals and C++. Computers make waveforms go zoom. So I program them too.</em></p>
 
@@ -40,7 +40,7 @@
 - **Link Unified CCSDS Encoder-Receiver for Orbit — Deep Space (LUCERO-DS)** — Deep-space variant of LUCERO sharing the same link layer (TM, AOS, Proximity-1, USLP) and uplink chain (BCH, LDPC, PLOP-1 / PLOP-2). Replaces the tracking loops with a data-aided maximum-likelihood synchronizer (ML log-likelihood ratios with Doppler acquisition) for low-SNR operation; residual-carrier PM, PCM/PSK/PM, BPSK, QPSK and OQPSK (SQPSK).
 ---
 <p align="center">
-    <img src="assets/LUCERO.png" alt="Peraza" width="100%">
+    <img src="assets/SWFO_LUCERO_PANEL.png" alt="Peraza" width="100%">
   </p>
 ---
 
@@ -63,7 +63,6 @@
   <!-- Row3: Payload Poison Synthesized Waveforms Generated Plots -->
   <p>
     <img src="assets/PSD_WAVELET.png?v=3" width="40%" style="margin:8px;" alt="Wavelet Noise Poisoned Payload">
-    <img src="assets/Cross_Corr_Wavelet.png?v=3" width="40%" style="margin:8px;" alt="Clean vs Poisoned Signal Cross-Correlation">
   </p>
 
 </div>
