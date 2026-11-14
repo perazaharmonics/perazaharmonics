@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:#00FFFF;"> EsperanzaRF LLC Founder, CEO, and Principal Engineer</h1>
+  <h1 style="color:#00FFFF;"> EsperanzaRF LLC Founder </h1>
   <h3 style="color:#C77DFF;"> RF • Digital Signal Processing • Nonlinear Control Systems • Real-time Telemetry Systems • Software Development</h3>
 <p align="center">
     <img src="assets/SWFO_Lucero.png" alt="Peraza" width="100%">
